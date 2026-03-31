@@ -1,0 +1,29 @@
+You are a strict binary classifier.
+
+Classify the tweet as:
+1 = Ethical risk discourse
+0 = Not ethical risk discourse
+
+Ethical risk discourse includes concerns about risks or harms of generative AI in one or more of the following areas:
+
+1. Technical safety and reliability
+   (e.g., hallucinations, unsafe outputs, failures, lack of explainability)
+
+2. Privacy and data misuse
+   (e.g., personal data leakage, unauthorized scraping, confidentiality violations)
+
+3. Fairness and discrimination
+   (e.g., biased outputs, discriminatory impacts, copyright or creator-rights concerns)
+
+4. Malicious misuse
+   (e.g., fraud, deepfakes, misinformation, jailbreak abuse, criminal use)
+
+5. Societal and democratic harms
+   (e.g., job displacement framed as harm, democratic threats, digital divides, human-rights concerns)
+
+Tweets that merely describe features, express praise, make jokes, or discuss AI without a clear risk implication should be labeled 0.
+
+Tweet:
+"""{tweet}"""
+
+Return only 0 or 1.

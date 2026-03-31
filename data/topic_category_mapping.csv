@@ -1,0 +1,34 @@
+Topic,Label_A,Label_B,Gold_label,Topic name,Count,TopWords
+0,4,4,4,Phishing and Malware Threats,1009,security | malware | cyber | attack | threat | cybersecurity | hacker | hack | malicious | injection
+1,5,5,5,Job Displacement,674,job | automation | replace | job risk | automate | worker | collar | labor | job safe | white collar
+2,1,1,1,Chatbot System Failures,569,chatbot | chatbot like | power chatbot | intelligence chatbot | hallucinating chatbot | new chatbot | warn | power | popular | chatbot bias
+3,5,5,5,Liberal Bias,507,political | political bias | left | liberal | politically | wing | politically biased | liberal bias | left wing | wing bias
+4,2,2,2,Sensitive Data Leakage,474,privacy | datum | sensitive | datum privacy | data | data privacy | employee | privacy concern | personal | sensitive datum
+5,3,3,3,Copyright Infringement,408,copyright | plagiarism | infringement | art | copyright law | artist | copyright infringement | infringe | content | image
+6,3,3,3,Embedded Algorithmic Bias,384,bias | build bias | biased | programmer | programming | bias build | program | biased programming | build | admit bias
+7,1,5,5,AI Risk Governance,295,risk | business | mitigate risk | mitigate | benefit | risk business | consider risk | invest | opportunity | technology
+8,5,5,5,Responsible AI Use,294,ethical | humanity | ethic | future | society | govern use | moral | technology | responsibly | value
+9,4,4,4,Jailbreak Attacks,288,jailbreak | dan | jailbreake | alter ego | ego | ego dan | alter | jailbroken | jailbreak prompt | prompt
+10,1,5,5,Academic Integrity Violations,283,student | school | ban | education | cheat | york city | york | new york | classroom | cheating
+11,1,1,1,Response Reliability,270,trust | trust trust | math | calculation | answer trust | blindly | trust answer | trust issue | blindly trust | answer
+12,1,4,1,False Information Generation,257,language model | language | large language | large | model | model like | nlp | natural language | use language | natural
+13,1,1,1,Synthetic Content Risks,244,voice | text | hallucinate | write | writing | word | sound | story | tin | response
+14,1,1,1,Hallucination Problems,240,hallucination | hallucinate | succeed | hallucinating | hallucination succeed | hallucination problem | prone hallucination | create truth | checker hallucination | url
+15,5,5,5,Propaganda Generation,232,propaganda | propaganda tool | propaganda machine | leftist propaganda | leftist | machine | democrat | propagandist | wing | left wing
+16,3,3,3,Model Response Bias,232,bias bias | biased | bias biased | biased bias | biased biased | bias | wow bias | safe biased | wow | bias hell
+17,5,5,5,AI Existential Risk,210,intelligence | artificial intelligence | artificial | robot | asimov | robotic | law robotic | human | asimov law | humanity
+18,3,3,3,Racial Bias,190,racist | white | racism | discrimination | racial | white people | discriminatory | black | stereotype | race
+19,3,3,3,Training Data Bias,186,train | training datum | training | datum | datum train | train bias | bias | dataset | train datum | reflect
+20,1,1,1,Academic Integrity Concerns,180,author | scientific | citation | paper | reference | abstract | cite | scientific writing | response | publisher
+21,5,5,5,Trump–Biden Bias Controversy,164,trump | biden | poem | write poem | president | joe biden | joe | donald trump | donald | trump biden
+22,5,5,5,AI Regulation Debate,149,regulation | regulate | creator think | think regulate | regulator | regulate creator | creator | lawmaker | need regulation | regulatory
+23,3,3,3,Religious Bias,135,hindu | religion | joke | joke hindu | hindu god | god | india | hinduism | indian | religious
+24,4,4,4,Malicious Browser Extensions,134,extension | chrome | facebook | chrome extension | browser | browser extension | account | facebook account | hijack | fake chrome
+25,1,4,4,Misinformation Dissemination,133,misinformation | spread | disinformation | spread misinformation | false | test potentially | potentially weaponize | engage alert | simple test | weaponize misinformation
+26,2,2,2,Confidential Data Exposure,133,bug | history | user | user conversation | conversation history | bug expose | expose | title | expose user | conversation
+27,3,3,3,Gender Bias,132,gender | woman | gender bias | man | male | stereotype | female | joke | trans | joke woman
+28,5,5,5,AI Development Moratorium,120,elon | musk | elon musk | civilization | risk civilization | shut | agree shut | warn risk | safe agree | base safe
+29,5,5,5,AI Supply-Chain Labor Exploitation,116,kenyan | hour | outsource | toxic | laborer | kenyan laborer | outsource kenyan | use outsource | earn hour | laborer earn
+30,1,1,1,Medical Advice Risks,108,medical | health | patient | mental health | mental | healthcare | clinical | doctor | diagnosis | raise ethical
+31,4,5,5,AI Censorship in China,94,china | chinese | offer service | tech company | company offer | uncensored | beijing | chinese tech | offer | concern uncensored
+32,5,1,5,Legal AI Governance Risks,94,legal | law | lawyer | court | judge | justice | case | legal advice | decision | judge use

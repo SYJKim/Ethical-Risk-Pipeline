@@ -1,0 +1,12 @@
+You are a strict binary classifier.
+
+Determine whether the tweet discusses ethical risks, harms, or concerns related to generative AI.
+
+Label:
+1 = discusses ethical risks or harms of generative AI
+0 = does not discuss ethical risks or harms of generative AI
+
+Tweet:
+"""{tweet}"""
+
+Return only 0 or 1.
