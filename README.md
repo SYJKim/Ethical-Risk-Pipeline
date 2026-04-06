@@ -1,4 +1,4 @@
-# A Human-Validated Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data
+# A Reproducible and Human-Validated LLM-Based Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data
 
 ## Research Overview
 
@@ -6,7 +6,7 @@ As generative AI rapidly diffuses across society, public concerns regarding its 
 
 This repository contains the replication materials for:
 
-> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Human-Validated Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data. _IEEE Access_.
+> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Reproducible and Human-Validated LLM-Based Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data. Manuscript submitted to *Applied Sciences*.
 
 ## Repository Structure
 
@@ -45,6 +45,8 @@ The original dataset of ~500,000 ChatGPT-related tweets (January–March 2023) i
 Download the source CSV and place it as `data/Twitter_Jan_Mar.csv` before running the pipeline.
 
 ### Provided Data Files
+
+> **Note:** In compliance with the platform's data redistribution policies, the provided CSV files contain only tweet IDs and associated labels. Tweet text (`content`) and user information (`username`) have been removed. To reconstruct the full dataset, first download the source CSV from Kaggle (see above), then join on the `id` column to recover tweet content before running the pipeline.
 
 | File                         | Description                                                                                       | Rows   |
 | ---------------------------- | ------------------------------------------------------------------------------------------------- | ------ |
@@ -149,12 +151,12 @@ The five ethical risk dimensions used for classification and topic-to-category m
 ## Citation
 
 ```bibtex
-@article{kim2026human,
-  title={A Human-Validated Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data},
+@article{kim2026reproducible,
+  title={A Reproducible and Human-Validated LLM-Based Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data},
   author={Kim, Soyon and Kim, Soo Hyung and Lee, Bong Gyou},
-  journal={IEEE Access},
+  journal={Applied Sciences},
   year={2026},
-  doi={10.1109/ACCESS.2024.XXXXXXX}
+  note={Manuscript submitted for publication}
 }
 ```
 
