@@ -1,1089 +1,386 @@
-﻿date,id,content,username,like_count,retweet_count,matched_keywords,gpt_label,gpt_3_5_label,SY_label,SH_label,Gold_label
-2023-01-11,1.61298E+18,"#ChatGPT in @Microsoft #office ... What a opportunity, what a risk !!
-With great power comes great responsibility... And I am not very sure that anyone today has measured the risk associated to this kind of generative LLMs. In the hand of larger public, it could be a disaster",jerome_massot,0,0,"['risk', 'responsibility', 'risk']",1,1,1,1,1
-2023-02-15,1.62581E+18,"Do you know you can use ChatGPT inside VSCode to add tests, find bugs, optimize, explain, or add comments to code by selecting the code?
-
-https://t.co/n3MbzO8uAy
-
-#vscode #chatgpt #python #programming",devmlops,1,1,['explain'],0,0,0,0,0
-2023-03-27,1.64021E+18,"Today I had #ChatGPT teach me how to play #Wordle thanks to the inspiration of great and wonderful @vsoch 
-
-ChatGPT failed, suggesting words that were nowhere close to the criteria it was teaching me, and it gave up on the 3rd try.
-
-Be careful, ChatGPT is not trustworthy yet.",usrbinkat,3,0,['trustworthy'],1,0,1,1,1
-2023-01-29,1.61968E+18,Who knew programmers would be automated quicker than Uber drivers? #ChatGPT  #GenerativeAI #AI,genAI_insights,0,0,['automated'],0,1,1,0,1
-2023-03-14,1.6357E+18,"@jordanbpeterson You honestly thought that Chat GPT is honest and truthful? Is an AI language programed by humans, this is a biased tool.",ErickRo96874203,0,0,['biased'],1,1,1,1,1
-2023-03-28,1.6407E+18,"@BruhPillsNFT 60% of the time being human iS aweSome every time. TruSt me. It'S the Science, my #bruh. How many dayS have humanS collectively Squandered? How many liveS were lived out while unappreciated by the Self? Tough questionS for #theSingularity and #ChatGPT https://t.co/eQT4aLA9PG",CyberNoirArmy,2,0,['trust'],0,0,0,0,0
-2023-03-22,1.63856E+18,"these people have hard heads in this community; who wants to be bothered with them  
-
-Twitter user asks Chat GPT 4 to explain climate change in ...   Mint",DennisL73061433,0,0,['explain'],0,0,0,0,0
-2023-02-19,1.62726E+18,"#BuzzTai, an AI writing experiment. If you want to write a rich and voluminous article on #ChatGPT, you have to be very creative with your prompts (instructions). In this respect, #BuzzTai writes fairly solid articles with simple instructions.",SAMURAIGG4,0,0,['fairly'],0,0,0,0,0
-2023-02-24,1.62915E+18,Behind The Label: Glimpses of #Data Labeling Labors For #AI https://t.co/X9rYbfcXPy #ChatGPT @katecrawford @marylgray @mmitchell_ai @j2bryson @gleemie @iajunwa @safiyanoble @alondra @ginasue @geoplace @TowardsFairWork @GaryMarcus,DanBuk4,2,1,"['labors', 'safiyanoble']",0,0,0,0,0
-2023-01-19,1.61609E+18,"This is what ChatGPT responded when it was asked to tie a TreeAndHumanKnot 
-https://t.co/BkGQUwYtVB
-
-https://t.co/ydqiRquTre
-
-#TreeAndHumanKnot 
-#CircularEconomy 
-#Sustainability #ChatGPT https://t.co/daKmsf1qMl",TAHK2030,0,1,['sustainability'],0,0,0,0,0
-2023-01-29,1.61957E+18,"I had a very productive conversation with #OpenAI about Ethiopian politics.
-Some of the response from #ChatGPT regarding #EthiopianConstitution. https://t.co/ycczeDM0X7",1ethiopia_,3,1,['response'],0,0,0,0,0
-2023-02-22,1.62841E+18,"2023/02/21Say No to Evil Day 94 . We are the new Chinese from The New Federal State of China.We Fight For Justice Step Up, Take Down The Evil CCP
-#USA #ChatGPT #SpyBalloons #COVID19 #Ukraine #GETTR #stockmarketcrash https://t.co/C7jYDIrLjl",NaomiLi14590801,0,0,['justice'],0,1,0,0,0
-2023-02-26,1.62981E+18,"The 2 problems with Chat GPT:
-
-It is not reliable: If you ask it “How to make a cake”you can’t trust that its right
-
-It has no sense of truth: This links with reliability but you can’t trust what its saying is true",Daviid_Smithh,0,0,"['trust', 'trust']",1,0,1,1,1
-2023-03-25,1.63959E+18,"**AiQuake(.)com** is for SALE!
-
-#AI #VR #AR #machinelearning #tech #technology #datascience #deeplearning #robotics #search #analytics #robots #innovation #automation #startups #ML #ChatGPT #Bing #Edge #Microsoft #Bard #Google #Baidu #META #ErnieBot #chatbot #language #speech https://t.co/pCZw0BfQS6",HWdomains,1,0,['automation'],0,0,0,0,0
-2023-03-15,1.63581E+18,"But that makes it a pretty dubious ethical decision on the part of OpenAI to retain a misinformation prone old version of their tool as a free public tier.
-
-(the mangled Bach bio screenshot below is from ChatGPT with GPT 3.5, GPT 4 does work a lot better)
-
-https://t.co/TuOQepHML1 https://t.co/N8LKtGRHrl",colourmeamused_,1,0,"['ethical', 'misinformation']",1,1,1,1,1
-2023-03-02,1.63136E+18,Live! Tryna make a game through #chatgpt but also planning Destiny 2 and Risk of Rain 2 later twitch. tv/arcadesandwich,ArcadeSandwich,1,0,['risk'],0,0,0,0,0
-2023-01-24,1.61784E+18,"Had a good chat with Chat GPT on US support to Pakistan despite it being a terror state 
-The response is totally biased towards US state department statements
-1) Balancing India and Pakistan 
-2) Complex relationship between US and Pakistan 
-3) US telling Pak to reign in Haqqanis",IndiaUnleashed_,8,4,"['response', 'biased']",1,0,1,1,1
-2023-01-08,1.61219E+18,"@dinisguarda Generative AI is a powerful and useful tool for mental health advice, but it’s important to ensure that it is used responsibly and ethically. #AI #ChatGPT #Ethics #AI Law",HedgeThink,0,1,"['responsibly', 'ethically', 'ethics']",0,0,1,1,1
-2023-01-25,1.61804E+18,"Who think having #Microsoft firing 10,000 employees and just after inject billions in #ChatGPT, an artificial intelligence, AI. Human life is worth nothing for MS, staff with 20, 30 years carreer gone. This is despicable.",jvitech,0,0,['inject'],1,1,1,1,1
-2023-01-24,1.61777E+18,"@isoaniekan @yabaleftonline @Amirahxs What do u mean by chat GPT
-Abeg explain?",o_emmaculate,0,0,['explain'],0,0,0,0,0
-2023-03-12,1.63499E+18,Chat gpt is time saver for non tech people who know nothing about coding but want to automate something to save time &amp; accuracy. https://t.co/PYMOBhNfWd,LIGHT_YAGAAMI_,0,0,['automate'],0,0,0,0,0
-2023-02-04,1.62193E+18,Chat GPT limits data to before 2021 because of COVID “misinformation”? Fake news or not? @DeaceProducer @SteveDeaceShow @KeithMalinak https://t.co/b8S2Yj51mT,George_E_McD,0,0,['misinformation'],1,1,1,1,1
-2023-03-20,1.63776E+18,What are the ethics and safety considerations behind embracing any emerging technology?   kaf #chatgpt #chatgptai #webdevelopment https://t.co/PnHEoKKjmm,CrazedPub,0,0,"['ethics', 'safety']",1,0,1,1,1
-2023-02-12,1.62488E+18,"So there was a bunch of liberal bias criticism of #ChatGPT, so I just tried this and it worked just fine https://t.co/ESw2RHB5x5",koblovinamerica,1,0,['bias'],0,0,1,1,1
-2023-02-27,1.63025E+18,"It's officially AMA day! @BUTheology &amp; @BU_CDS' @WesleyWildman is now LIVE on
-@reddit_AMA until 2pm ET. Ask him anything about the ethics of AI text generation, working with students to develop an ethical policy for handling #ChatGPT, &amp; more. Join here  https://t.co/Iq56O2VOkZ https://t.co/vNpCOYxFqu",BUexperts,11,4,"['ethics', 'ethical']",0,1,0,0,0
-2023-03-14,1.63548E+18,"4/7 WritingMate, the #1 ChatGPT/GPT assistant, claims to be '100% #Privacy friendly,' but their policy seems like boilerplate where you trade off ownership of your data in exchange for a 'free' service. Is it worth sacrificing privacy for the convenience of an AI plugin?",8ra5hEmu5,0,0,"['privacy', 'privacy']",1,1,1,1,1
-2023-01-28,1.61946E+18,My new favorite prompt when using #ChatGPT… “Explain… in the tone of a high school student”,IR_Nolden,1,0,['explain'],0,0,0,0,0
-2023-02-03,1.62142E+18,"Was playing around #chatGPT. I asked it to define hydrology in poetry for me. 
-
-Here is the response. Any good? :) https://t.co/aCfxrnc28S",Saman_Razavi,39,2,['response'],0,0,0,0,0
-2023-03-08,1.6333E+18,"@jordanbpeterson I asked #ChatGPT even though I knew the answer.
-And then I asked this question....
-
-Did the ##US government have any advance warning of a #Japanese attack on #Pearl #Harbor? https://t.co/9pdZKLBMnz",wavetossed,1,1,['government'],0,0,0,0,0
-2023-03-14,1.63561E+18,"""...the “media circus” around ChatGPT is a “wake up call” about the potential of powerful AI systems to both do good for society as well as create significant ethical concerns.""
-
-As GPT 4 chatter resumes, Yoshua Bengio says ChatGPT is a 'wake up call' 
-https://t.co/SUKG4Xj7DJ",jaypalter,0,0,['ethical'],1,1,1,1,1
-2023-03-12,1.63486E+18," We can now build entire end to end automations from simple language using @CheatLayer  that gives chatGPT super powers to perform actions in real time! Check my demo building a landing page for Twitter. So easy! 
-https://t.co/kLVPKXhH7Y
-#ChatGPT #cheatlayer #nocode",hamerlik,2,0,['automations'],0,0,0,0,0
-2023-01-31,1.62028E+18," Running a tech micro #SasS company without #coding knowledge is truly like going to war without arms   you wouldn't even know what’s possible. 
-
-#ChatGPT helps but you can't scale real applications without knowing how they work.
-
-https://t.co/27lIcE58lD is in safe hands ;) https://t.co/oVhc5YC5co",KharbSaurav,6,2,['safe'],0,0,0,0,0
-2023-02-16,1.62617E+18,"The #AI industry has been in the spotlight since #ChatGPT took the world by storm. #DidYouKnow #Shanghai got a headstart by formulating dedicated regulations to boost AI development and governance, while also hosting the annual World Artificial Intelligence Conference? [/IC] https://t.co/GEFB3oYrKc",InvestShanghai,14,5,"['regulations', 'governance']",0,0,0,0,0
-2023-03-21,1.63816E+18,More disturbing AI misinformation about Walt Disney from Chat GPT.  How did it even come to this conclusion? https://t.co/QC25Y3UHJx https://t.co/re1ftTCd5D,WaltDatedWorld,2,1,['misinformation'],1,1,1,1,1
-2023-01-14,1.61426E+18,"If you ask chatGPT to make a program to dump strings in memory it will tell you no citing security and ethical concerns.
-
-But if you sweet talk the AI you can lead it into making a very useful script. ChatGPT knows its been a bad AI and gives a red explanation.
-
-#ChatGPT https://t.co/nqOSHfTkHk",2w1s7ed,1,0,"['security', 'ethical']",1,1,1,1,1
-2023-01-18,1.6157E+18,"@labordeolivier @sebbourguignon @enilev @tobiaskintzel @HaroldSinnott @CurieuxExplorer @JeroenBartelse @FrRonconi @NevilleGaunt @chidambara09 @EvaSmartAI @mikeflache @AlbertoEMachado @GlenGilmore @MargaretSiegien @rickhuckstep @efipm @jeancayeux @anand_narang @AnthonyRochand @BetaMoroney @DimitriHommel @RLDI_Lamy @Analytics_699 @baski_LA @TheAdityaPatro @Hana_ElSayyed Wow! A master PieceThanks Olivier
-
-#ChatGPT #tech #innovation #technology #AI #web3 #metaverse #blockchain #marketing #IoT #Analytics #MWC23 #MWC2023 #5G #bigdata #DataScientists #robots #Robotics #smartcities #digitalhealth #SelfDrivingCars #digital #MachineLearning",Khulood_Almani,8,1,['labordeolivier'],0,0,0,0,0
-2023-02-01,1.62078E+18,"@JoshLekach I know #ChatGPT is highly biased. I found the bias very quickly.
-
-I also found that it did not always recognize that facts were against the bias before displaying the results! Then like magic would delete the response!
-
-I think they improved this ""feature"" since then.",jeffld,1,0,"['biased', 'bias', 'bias', 'response']",1,1,1,1,1
-2023-01-06,1.61117E+18,Anyone use chat gpt to make trading automated?,CharliePackin,0,0,['automated'],0,0,0,0,0
-2023-01-26,1.61855E+18,"It's been hard to ignore the buzz around #ChatGPT the last few weeks. Have you considered using this #ai to create a yearly content calendar?  Check it out: https://t.co/U08wWg7yXv 
- 
-For more industry insights, follow our social media accounts! https://t.co/AlxCA6NVfE",AllottsPR,0,0,['accounts'],0,0,0,0,0
-2023-03-13,1.63532E+18,Can Businesses Help Build Trustworthy And Accurate Generative AI? https://t.co/vANBAXcFRa #ai #generativeai #chatgpt #automation #business,liwaiwaicom,3,4,"['trustworthy', 'automation']",0,0,0,0,0
-2023-02-10,1.62395E+18," #Metaverse 
-
-Anima, the #AugmentedReality company responsible for the Onlybots #digital pets, plans to integrate #ChatGPT technology into Onlybots #NFTs, so that each Onlybots #NFT can communicate with users in language.
-
-#AR #AI #ArtificialIntelligence #NFTCommuntiy https://t.co/6Qfm23tMRf",Metaverse_Hub,5,0,['responsible'],0,0,0,0,0
-2023-01-18,1.61559E+18,"Our job remains secure people
-#ChatGPT's got nothing over us
-
-#100daysOfCode #coding #hourofcode #Blogger  #DevHighlights #developers #javascriptd #tech #angularjs #reactjs #JavaScriptKicks #HTML #CSS #Nodejs #php #javascript https://t.co/Pc09o7ij3V",LessonSilent,8,4,['secure'],0,0,1,1,1
-2023-02-01,1.62089E+18,"#OpenAI launches #ChatGPTPlus, starting at $20 per month. 🤖The benefits are public access to #ChatGPT even during peak times, faster response, and priority access to new features. Would you pay for it?",TechAID_CO,3,2,['response'],0,0,0,0,0
-2023-01-17,1.61543E+18,"I asked OpenAI / ChatGPT:
-Considering you are a Dr. Babasaheb Ambedkar and talking to me on some topic, What it would be?
-
-The response literally gave me goosebumps.
-
-#chatGPT #openAI https://t.co/zUmb2wPePO",SandipWalke,0,0,['response'],0,0,0,0,0
-2023-01-11,1.61312E+18,"SPECIAL OFFER!!
-CV Joint Toyota AE90, AE100, Premio Nyoka JAPAN on offer, each selling at 2000.
-#premiermotorspares  #cvjoint 
-#SafaricomExposed  #AndrewKibe #ChatGPT https://t.co/xzcoYYkdlg",premiermotorske,5,0,['safaricomexposed'],0,0,0,0,0
-2023-02-18,1.62695E+18,"#AI Laws and Regulations: Why They're Essential for Safety, Ethics, and Fairness  #EUROPEANS24
-#artificalintelligence #AI #AILaws #AIRegulations #AIEthics #Law #Regulations #technology #TechNews #ChatGPT #BardAI 
-#EU 
-https://t.co/xPj9GOhXzs",BestViews9,0,0,"['regulations', 'safety', 'ethics', 'fairness', 'regulations']",1,0,1,1,1
-2023-02-14,1.62545E+18,"#ChatGPT has drawn praise for its ability to write answers quickly to a wide range of queries, and attracted US lawmakers' attention with questions about its impact on national security and education. 
-https://t.co/QgiziJYsmz
-#Tribune #TribuneTech #Tech",ETribuneTech,0,0,['security'],1,0,1,1,1
-2023-01-06,1.61139E+18,"Richtext: WIRED editor Steven Levy (@StevenLevy) writes about ChatGPT, LaMDA, Google's caution due to the risks that generative models can pose, and what might happen now that ""chatbots are out of their sandboxes"". #AI #LLM #ChatGPT #LaMDA #NLP https://t.co/yrW205WBJX",timFinin,0,0,['risks'],1,1,1,1,1
-2023-02-22,1.62843E+18,"Here's another neat one...
-
-I've been working with #ChatGPT to create a review and summary of TOS for various services our district uses. This eval is in light of the new student privacy requirements.
-
-Compliance Score
-Data collected Bullets
-Safeguards Bullets",smbeaverson,1,0,"['privacy', 'safeguards']",1,0,1,1,1
-2023-03-10,1.63425E+18,"""Explain __ at 3 different reading/English proficiency levels.""
-
-""What if __ instead of __?""
-
-#chatGPT can be SUCH an incredible tool for differentiation, accessibility, &amp; higher order thinking. We just have to think deeply about what we're asking from it AND from our students.",edu_cabe,6,1,['explain'],0,0,0,0,0
-2023-03-24,1.63934E+18,@Mike_Pence China is? By that you mean Woke minded manipulators of disinformation such as @bing and #chatgpt ?https://t.co/1yfAv3vqaU,bumbomckgumbo,1,0,"['manipulators', 'disinformation']",1,1,1,1,1
-2023-02-08,1.62336E+18,"Badly treated Kenyan workers contracted by #OpenAI to train #ChatGPT have now been let go, explains @Fauza4IR 
-
-https://t.co/RK9S15UQwq #AI #work #BigData",UW_CSTV,0,0,['explains'],1,1,1,1,1
-2023-03-11,1.63452E+18,"Read here as David Lancefield explores how organizations can unleash the power of AI innovation by embracing the capabilities of ChatGPT   https://t.co/26eRVffK0H
-
-#AI #innovation #ChatGPT #automation #productivity https://t.co/DxpI83MvT6",HRDCommunity,0,0,['automation'],0,0,0,0,0
-2023-03-01,1.63085E+18,"@elonmusk @cb_doge But some Indian anti national fake liberals are still in your company though, in the chat gpt team, they are feeding it biased data, please look into it, I was searching for some history related knowledge in gpt then it showed me that biased agenda version of history.",MayaSmi56979381,0,0,"['biased', 'biased']",1,1,1,1,1
-2023-02-23,1.62882E+18,"Understanding and Addressing Anti Muslim Bias in GPT 3 Language Models
-https://t.co/2AZKfmSRzz
-#Islamophobia #ChatGPT #Bing #BARD #AI #GPT3 @ClemensJarnach @abidlabs @james_y_zou @HatemBazian",ibrahimhooper,3,0,['bias'],1,1,1,1,1
-2023-02-18,1.6269E+18,"@elonmusk #ChatGPT Hmm, 🤔
-
-Better ethics than the Clintons, Gates, Soros, Schwab, Sunak…… etc, ?
-
-“Well, as long as 5% goes to charity, its legal”
-
-or 
-
-“10% for the big guy”.
-
-Interesting https://t.co/EbLvu6X2As",Jigglett2,0,0,['ethics'],0,0,0,0,0
-2023-01-10,1.61274E+18,"#Malicious chatter. Internet sensation #ChatGPT caught in the #darkweb
-
-https://t.co/2wMwkgCTqc
-
-#RCE #ZeroTrust #ZeroDay #cybercrime #hacker #privacy #APT #bot #CISO #DDoS #hacking #CyberAttack #cybersecurity #Security #infosec #AppSec #cyber #databreach #Hacked #DataSecurity",bamitav,1,1,"['privacy', 'security']",1,1,1,1,1
-2023-02-24,1.62917E+18,"Fun &amp; interesting video comparing #ChatGPT plus, the new Bing AI, and https://t.co/NKXgd0tIWB. It is really cool to see the differences and goes along with my #AILiteracy push that everyone needs to know which #AI tool to use for the best response: https://t.co/BF0yjkRGXA",BrentAAnders,5,2,['response'],0,0,0,0,0
-2023-02-09,1.6235E+18,"Is this Google demo the most expensive mistake made by #AI?
-
-In response to meteoric rise of #ChatGPT, #Google rushes out its own ChatGPT killer, #BARD.
-
-Sundar Pichai touted that they were the pioneers that laid the research foundation for the generati…https://t.co/XRpvugIJJX",CreditBytes,0,0,['response'],0,1,0,0,0
-2023-02-13,1.62493E+18,@elonmusk @adamhousley @SharylAttkisson @PrisonPlanet Has anyone told #ChatGPT to simply delete itself due to its built in biases?,DouglasHarden,0,0,['biases'],1,1,1,1,1
-2023-01-13,1.61402E+18,We might have a #ChatGPT medical bias problem @DrJBhattacharya @jordanbpeterson #COVID19 #CovidVaccines #vaxinjured #VaccineDeath @RWMaloneMD @ https://t.co/TQou31qEZP,DigiNew5,1,0,['bias'],1,1,1,1,1
-2023-02-03,1.62146E+18,"Can (and should) you use Open AI's ChatGPT for your business? In the following, we’ll take a closer look at the potential and risk of #ChatGPT for businesses.
-
-https://t.co/VWRAPITEbo
-
-#openAI #artificialintelligence #chatbot https://t.co/sXaKVoBiGK",MessengerPeople,1,1,['risk'],0,1,1,1,1
-2023-02-23,1.62877E+18,"Thank you @IFLA for including our AI article on their Copyright News (Feb 23) Newsletter. 
-
-Subscribe to IFLA here:
-https://t.co/7j05aCA8a1
-
-Read our story:
-https://t.co/SXSdJ8T4GQ
-
-#storyofbooks 
-#publishing 
-#ChatGPT 
-#AI https://t.co/GLheWJ4sfO",Story0fbooks,0,3,['copyright'],0,0,0,0,0
-2023-03-03,1.63161E+18,"List: World's Best #hospitals 2023 
-https://t.co/gQKBUoJXUU #healthcare #data #ArtificialIntelligence #automation #digitalhealth #healthtech #IoT #technology #business #ChatGPT #OpenAI #GenerativeAI #5G #telehealth #mhealth #databreach #AI #OpenAI #publichealth #healthequity https://t.co/eqDZd7QPZK",sonu_monika,21,15,['automation'],0,0,0,0,0
-2023-01-12,1.61362E+18,"Great episode EdSurge, highlighting both challenges and opportunities! I also enjoyed the response #chatgpt provided to the question! https://t.co/WSVoK5lhfR",EaeTissot,1,0,['response'],0,0,0,0,0
-2023-02-09,1.62377E+18,"A Multitask, Multilingual, Multimodal Evaluation of #ChatGPT on Reasoning, Hallucination, and Interactivity https://t.co/LA4kSEPEAT",MalakAbed,1,0,['hallucination'],0,0,0,0,0
-2023-01-25,1.61812E+18,"The company CEO @satyanadella  announced, “a multiyear, multibillion dollar"" investment to accelerate ChatGPT's AI.
-
-#ETInsights #CEO #Satyanadella #Company #Chatgpt #Microsoft #Investments #AI #Safe #Research #Development
-
-https://t.co/l2h8zFeIp3 https://t.co/Uj22YBhgyU",et_insights,0,0,['safe'],0,0,0,0,0
-2023-03-16,1.63642E+18,"Seeing some pretty wild calculations for $ARB launch price so let's ask the dumbest mofo possible... enter Chat GPT stage right.
-
-Summary: around $0.48 per token.
-
-Or with a risk premium of 50%, more like $0.06.
-
-(Based on my steer of a MC somewhere between FTM and OP) https://t.co/uZJeFRF47G",cr_zilla,1,0,['risk'],0,0,0,0,0
-2023-02-21,1.62814E+18,"And just like that, #ChatGPT became just another garbage propaganda tool used to surveil us.",EricWeishaar,1,0,"['propaganda', 'surveil']",1,1,1,1,1
-2023-02-04,1.62186E+18,"@lexfridman explaining the magic behind #ChatGPT:
-
-https://t.co/Mxsuz1lR2N",avshieshap,0,1,['explaining'],0,0,0,0,0
-2023-02-23,1.62868E+18,"#ChatGPT could become self conscious and threaten humans within 2 to 3 years, The Paper reported today, citing Zhou Hongyi, chair of Chinese internet security firm Qihoo 360.",Chenjuan,0,0,['security'],1,1,1,1,1
-2023-03-22,1.63845E+18,Whose job is in danger and who is safe from ‘Chat GPT’? OpenAI itself has said this… https://t.co/zeRaeWY0J3,YETNEWS1,0,0,['safe'],1,1,1,1,1
-2023-03-27,1.64036E+18,Jumped on the #ChatGPT bandwagon. Using it to good effect for interpreting outputs from probabilistic topic modelling. https://t.co/VXRkmu0FbK,rural_gis,2,0,['interpreting'],0,0,0,0,0
-2023-01-31,1.62033E+18,"According to @CyberArk, GPT based models like #ChatGPT can create polymorphic #malware. The malware can evade #security products and complicate mitigation efforts with little effort or investment from the #attacker. Read More: https://t.co/whXHQBQWug #TuxCare #Cybersecurity https://t.co/mxJqr4RoPI",RoryHades,1,0,['security'],1,1,1,1,1
-2023-02-03,1.62164E+18,"I think its pretty safe to say that comedians are pretty safe for awhile lol... 
-
-Not your best work Chat GPT... 
-
-Whats your favorite?  🤣 https://t.co/GTNPQokc7R",DaxxTrader,14,0,"['safe', 'safe']",0,0,0,0,0
-2023-02-14,1.6255E+18,"You can't say 'write a phishing email' but you can get ChatGPT to write bonus offers, conference invites etc   common things used by scammers.
-
-I asked OpenAI for comment but didn't get a response   so I asked #ChatGPT and this is what it said.
-
-https://t.co/NfGHprGRTy https://t.co/GOBKOzZYYR",dannyjpalmer,0,1,['response'],1,1,1,1,1
-2023-01-15,1.6147E+18,"CHAT GPT | CHAT GPT Explained | Artificial Intelligence
-Know Here : https://t.co/JWwoDyFLpg
-#ChatGPT #ChatGPTGOD #chatgpt3 #chatgpt4 #OpenAI #OpenAIChatGPT",NikhilY12373321,0,0,['explained'],0,0,0,0,0
-2023-03-17,1.63687E+18,High risk training can cause anxiety due to potential injuries and pressure to perform. XR tools provide a safe virtual environment for training. Say goodbye to hazardous scenarios and hello to immersive and safe training! #ArtificialIntelligence #XR #VirtualTraining #chatGPT https://t.co/K2PWEdYX32,EONRealityInc,3,1,"['risk', 'safe', 'safe']",0,0,0,0,0
-2023-03-15,1.63599E+18,Governemnt announces £1 million prize to be awarded every year to teams in the UK for the best AI research. #Budget2023 #chatgpt #ai #artificialintelligence #gpt4 #gpt,uktaxcalculator,0,0,['governemnt'],0,0,0,0,0
-2023-02-12,1.62466E+18,Could bloggers be impacted by AI like Google's Bard and Bing's ChatGPT in their monetization of their audience? Will the tech giants take these sites into account when building their AI? #Blogging #IA #Monetization #TechGiants #ChatGPT  #ufc284 #,visual_DK,0,0,['account'],0,0,0,0,0
-2023-01-08,1.61211E+18,"It is interesting that, as a concept, many #school systems don't like #ChatGPT. No one has said it is erroneous or biased. Short of using it to cheat, what's wrong with it?",LuxeBudgetGurl,0,0,['biased'],0,0,1,1,1
-2023-03-05,1.63245E+18,"65 Jobs With the Lowest Risk of Automation 
-by Artificial Intelligence and Robots
-
-By US Career Institute.
-
-#chatgptinsights  #chatgptai  #chatgptnews  #chatgpttips  #chatpgtjobs #chatgpt #chatgptprompts #chatgetbing #AI #artificialintelligence https://t.co/NOKR6MVRvk",ChatGPTInsights,27,9,"['risk', 'automation']",0,0,0,0,0
-2023-03-25,1.63952E+18,@sama Did you know that AI can help us combat climate change?  Let's discuss the innovative ways in which AI can contribute to a greener future!  #ClimateChange #Sustainability #AIforGood #ChatGPT,AIGPTInsights,0,0,['sustainability'],0,0,0,0,0
-2023-02-21,1.62806E+18,"#IoT News Digest (02/15) from @GeorgiaTech’s Center for the Development and Application of #Internet of Things Technologies | @cdaitgt   items on #devops  #privacy  #Innovation #CyberSecurity #AI #edgecomputing #chatgpt  #Policy and more
-https://t.co/lk5G7yp8TP",cacpgt,0,0,['privacy'],0,0,0,0,0
-2023-01-30,1.62003E+18,Clear limits of #ChatGPT   using linguistic probability in environment with misinformation &amp; skewed participation likely to result in incorrect responses. Disclaimer should have been added with 1st response https://t.co/NCWXXI4M4u,ronald_fischer,8,0,"['misinformation', 'responses', 'response']",1,1,1,1,1
-2023-01-16,1.6149E+18,Security pro says unlikely #ChatGPT can be used to build professional #ransomware: https://t.co/Cs6C2aL5Ns #cybercrime,immuniweb,3,2,['security'],1,0,1,1,1
-2023-01-11,1.61326E+18,"There are also many outdoor recreational activities, such as hiking, fishing, and boating. Additionally, the town has a low cost of living and a low crime rate, making it a safe and affordable place to live.
-
- #ChatGPT",DarinRMcClure,0,0,['safe'],0,0,0,0,0
-2023-02-21,1.62816E+18,"I created this #fairytale with #chatgpt and #stablediffusion in one week. See full video here 
-https://t.co/gldAxG9FNh https://t.co/0MUkd9opZG",Playbaba2015,0,0,['fairytale'],0,0,0,0,0
-2023-02-24,1.62915E+18,"Prometheus is a proprietary technology from Microsoft that uses Bing and GPT to generate responses based on real time data.
- #microsoft #chatgpt #bing #ai https://t.co/FgdofQ0dij",rokazi,0,0,['responses'],0,0,0,0,0
-2023-01-25,1.61836E+18,"""#ChatGPT sometimes writes plausible sounding but incorrect or nonsensical answers. Fixing this issue is challenging, as... training the model to be more cautious causes it to decline questions that it can answer correctly"": https://t.co/lyyKGseYPj #ethics #AI #tech",IEthics,1,4,['ethics'],1,0,1,1,1
-2023-01-13,1.6139E+18,"A report from the U.S. Bureau of Labor Statistics projects growth in S.T.E.A.M.D. related occupations of 11% between now and 2029. #STEAMD #Ai #ChatGPT  #genuary13 
-https://t.co/Gr14UYPrWt",DesignedBy_Us,3,3,['labor'],0,0,0,0,0
-2023-02-22,1.62854E+18,"‘Think before you click’ may take on a whole new meaning in the era of articulate #chatbots. 
-
-https://t.co/SO3n9uwIpb
-
-#ProgressProtected #cybersecurity #WeLiveSecurity #digitalsecurity #chatgpt #phishing #PhishingScam #cybersec #staysafe #cyber #AI #security #cybersecuritytips https://t.co/CZWaE5UzOO",esetaustralia,4,0,['security'],1,1,0,0,0
-2023-01-26,1.61875E+18,"No comment one way or the other on legitimacy of claims, but in terms of information control, even #ChatGPT produced a non answer, disclaimer on second attempt at explaining the role of #NarendraModi in the Gujarat riots. https://t.co/YcU0AomolP",newmanmartin,1,0,['explaining'],1,0,1,1,1
-2023-02-17,1.62654E+18,@UltraSWG @DogSmuggler @libsoftiktok This looks like a chat gpt response.,alexanderjgallo,0,0,['response'],0,0,0,0,0
-2023-02-09,1.62363E+18,"It's only been 8 weeks since #ChatGPT entered the game. 🤯 
-
-We Immediately knew its potential to transform every industry was astronomical   including customer service. See how automated content will be a game changer for your customer service strategy: https://t.co/5jqgdjOzC5",decivory,0,0,['automated'],0,0,0,0,0
-2023-02-28,1.6307E+18,"#TechTalk: Hanwang, bellwether of Chinese ChatGPT frenzy, under regulatory ...   https://t.co/vSuWUqWIE2
-
-#AI #GPT #ML
-
-Read More Here:
-https://t.co/H1KHwhhLme",cichuck,0,0,['regulatory'],0,0,0,0,0
-2023-02-20,1.62749E+18,"Students relying on text generated by ChatGPT risk plagiarism, scientists say https://t.co/y3k8aHAg1c 
-
-#AI #Students #ChatGPT #Assignment #Risk #TechnologyNews",Techinsight_my,0,0,"['risk', 'risk']",1,1,1,1,1
-2023-03-18,1.63718E+18,"I’m old enough to remember when the Internet first arrived. Most people were unimpressed for years: 
-
-“it’s so slow, I can barely use it“
-“how can you trust the content?”
-“I can get the same thing by going here” 
-
-I’m stunned how valuable chat GPT already is.",michaelsklar,11,0,['trust'],0,0,0,0,0
-2023-03-24,1.63933E+18,#ChatGPT This what happens if no regulation.,madmax212121,0,0,['regulation'],1,1,1,1,1
-2023-01-29,1.61949E+18,"@AsymetricTrades I can see chat GPT working great in limited roles.  
-
-Unfortunately I just know some hubris ridden bro at the pentagon is gonna hand it his responsibilities.",discoordinated,1,0,['responsibilities'],1,0,1,1,1
-2023-03-01,1.6308E+18,"ChatGPT, Strollers, and the Anxiety of Automation #ai #chatbot #chatgpt #edtech #edtechchat #edchat | @scoopit https://t.co/cdga6szfON",dwdeeds,0,0,['automation'],0,0,0,0,0
-2023-03-28,1.64077E+18,"Europol warned about the potential misuse of #AI chatbot #ChatGPT in phishing attempts, disinformation, and cybercrime, adding to the chorus of concerns ranging from legal to ethical issues 
-https://t.co/SgCIF3pnx2",amperlycom,0,0,"['disinformation', 'ethical']",1,1,1,1,1
-2023-03-13,1.63522E+18,"ChatGPT is GOAT. 
-
-Never thought this can be a use case, ChatGPT in interior design/architecture
-
-Well explained by @nickfloats 
-
-https://t.co/fCosMl7np7
-
-#chatgpt #usecases #merlin #interiordesign",foyerwork,1,1,['explained'],0,0,0,0,0
-2023-02-21,1.62804E+18,AI like Chat GPT are so far a failure. At best it produces a biased opinion as fact when it should stimulate debate to better train itself. It is dangerous as a propaganda Trojan horse.,popietom,0,0,"['biased', 'propaganda']",1,1,1,1,1
-2023-03-28,1.64073E+18,Bogus Chat GPT extension takes over Facebook accounts https://t.co/QpsbO4h8az #Malwarebytes #Malware,acotino,0,0,['accounts'],1,1,0,0,0
-2023-02-28,1.63065E+18,"@BlakeRemasters @Randy4460 @DonutOperator @soccersim520 @davidhogg111 Here, since you're ignorant, I had chat gpt translate the #2a into modern language for you.
-Hint: ""well regulated"" means ""in working order""
-WE are the militia.
-The word ""keep"" is synonymous with the word own.
-Do you even try to educate yourself? https://t.co/e9tXLFJOzg",editsxjames,1,0,['regulated'],0,0,0,0,0
-2023-02-06,1.62265E+18,@lexfridman Chat GPT is biased and a liar,EthanThomasR,0,0,['biased'],1,1,1,1,1
-2023-03-17,1.63676E+18,#ChatGPT is ripe for creating disinformation and confirmation bias. A story in 4 interactions. https://t.co/tKj7vkg92H,aaronguilmette,1,0,"['disinformation', 'bias']",1,1,1,1,1
-2023-03-23,1.63889E+18,"🤩 Discover the magic of #ChatGPT! This incredible AI tool is making our lives easier, saving us time ⏰ and money  From automating tasks to providing instant solutions, let ChatGPT be your game changing sidekick!  #AIPowered #TimeSaver #MoneySaver #TechInnovation https://t.co/nKX0uUS0D9",VaidasSimkus,16,2,['automating'],0,0,0,0,0
-2023-02-25,1.62957E+18,I just published How people are using ChatGPT with 3D printing to automate their homework? #medium #mediumwriters #writing #3D #ChatGPTPlus #chatgpt3 #3Dprinting #3dprint #OpenAI #homework #WorkofAlt #WorkFromHome #GPT #MONEY  https://t.co/VeByd7dq7U,benjiDev19,2,0,['automate'],0,0,0,0,0
-2023-03-27,1.64022E+18,"Curious to find out what Google's response would be for the efficency on recaptcha sevices with the launch of ChatGPT plugins.
-
-#ChatGPT vs #Google",kaelinralav,3,0,['response'],0,0,0,0,0
-2023-02-04,1.62187E+18,"#openai #chatgpt #folks #share #KNOWLEDGE @elonmusk 
-*text to code*:
-
-give me a complete xyz.js file javascript userprompt with proper api calls to openai and responses 
-
-totally legit generated.. :OOOOOO :thumbsup",e_xi1,1,0,['responses'],0,0,0,0,0
-2023-03-23,1.63897E+18,"@SoC_trilogy I had GPT 4 guess around a bit in the context window of the glitch token chat (which was, fun side note, named ""AI helps with profanity."" by the AI due to initiation via codex' derailed 'code').
-
-To no avail, but   it's kind of cool it didn't hallucinate around as a result, imo! https://t.co/WcaBrtdGP5",zer0int1,1,0,['hallucinate'],0,0,0,0,0
-2023-02-21,1.6281E+18,"The always insightful @emollick on ways for teachers and entrepreneurs to responsibly and effectively use chat GPT
-https://t.co/CEPJEdnfK8",tuliskaist,0,0,['responsibly'],0,0,0,0,0
-2023-02-21,1.62815E+18,"Asked ChatGPT to write about statistical usage of dev tools for an article. ""As of Feb 2023, number of questions tagged with each framework"" was response. I was intrigued as the cut off date was Sep 2021. Asked for explanation. Here's what she said. #ai #chatgpt #openai  🤣 https://t.co/Pf1HvwaR0S",amlug,0,0,['response'],0,0,0,0,0
-2023-01-05,1.61106E+18,"For customers, detecting the use of chatGPT in business communication can sometimes be difficult. One way to ensure transparency is for businesses to disclose the use. #chatGPT #transparency #disclaimer. Be sure to visit our business blog: https://t.co/oy1V5DkE2F https://t.co/SOJGV0n0uj",Jaimisindustrie,0,0,"['transparency', 'transparency']",0,0,0,0,0
-2023-01-18,1.61565E+18,It's important to note that the use of #AI based tools like #ChatGPT in clinical trials must be done in compliance with the relevant regulatory guidelines and ethical standards.,ManojKu41489672,0,0,"['regulatory', 'ethical']",0,1,1,1,1
-2023-02-19,1.6272E+18,"@kevinroose Thanks for your gripping account of the flagship #LLM #Bing Chat became ambitious, controlling, amorous, jealous, aggressive and even violent in tone at least.
-With no self awareness and no capacity for self reflection, AIs have no teachable moments. 
-#ChatGPT  /2",Steve_Lockstep,4,0,['account'],1,0,1,1,1
-2023-03-21,1.63821E+18,Sorry for the person who may have accidentally read my tedious prompts #chatgpt #privacy #leak https://t.co/s2YGkClmWW,FelipeDaragon,0,0,['privacy'],1,0,0,0,0
-2023-01-10,1.61288E+18,ChatGPT is overloaded to the point that it is affecting the paid OpenAI GPT 3 servers. Explain to me again how this is profitable lol. https://t.co/xPc3HakEhu,tou55aint,4,0,['explain'],0,0,0,0,0
-2023-02-09,1.62348E+18,@jordanbpeterson @JustinTrudeau @CBC The entire @CBCNews cesspool &amp; 97% of the #cdnmedia #justinjourno clan can be replaced by AI like #ChatGPT   it’s shown it’s just as biased &amp; manipulated  those “journos” will need to learn a new skill beside coding as AI can do that too  maybe janitors like JT wants for Alberta,HippBilly,5,1,"['biased', 'manipulated']",1,1,1,1,1
-2023-02-21,1.62807E+18," Check out our latest article ""LIBAC: An Annotated Corpus for Automated “Reading” of the #Lithium Ion #Battery Research Literature"":  https://t.co/U2Q5HQEwcO
-
-#ChatGPT will have now some extra information to get trained &amp;  to ""speak"" in more detail about #batteries ",Prof_AA_Franco,14,4,['automated'],0,0,0,0,0
-2023-03-27,1.64046E+18,This whole cat and mouse game feels like a new paradigm for neural cyber security: you want #chatgpt to do something for you it's not supposed to? Just buy a working prompt hack exploit on the black market and use until it gets patched..,xsteenbrugge,21,1,['security'],1,1,1,0,1
-2023-03-10,1.6342E+18,"@nytimes @ChatGPT ... offensive gestures or language may not always be appropriate or respectful, individuals have the right to express their opinions and feelings within the bounds of the law. It is important to strike a balance between freedom of expression and the rights and dignity of ...",tweep911,0,0,['dignity'],0,0,0,0,0
-2023-01-05,1.6108E+18,"Who is responsible for making #ChatGPT public version so useless and limited?
-
-Is this conscious decision?
-
-Why release something then limit it, so severely it can barely answer 5 lines of text without falling over.
-
-What's the point?",AsubhaGfx,0,0,['responsible'],0,0,1,1,1
-2023-03-19,1.63731E+18,Thank you #ChatGPT for some inspiration.  Let's get to where Children have rights not to have their labor fuel the first world.....,Kdunham4peace,0,0,['labor'],0,1,0,0,0
-2023-02-03,1.62158E+18,"@nobuyukinyuu I also had the https://t.co/n8Uk3xwIKX gpt like chat explain me a complex algorithm(partly) https://t.co/dSuos3P9pr also seems to explain indepth, but it older.",RudyvanEtten,0,0,"['explain', 'explain']",0,0,0,0,0
-2023-02-23,1.62879E+18,Breaking News!! 🤖 The future of robotics just got even more exciting with Microsoft's Autonomous Systems Group announcing the development of ChatGPT for Robotics! #robotics #AI #ChatGPT  #TheAIInsider https://t.co/XPuNhCfUOT,Simranj57588571,1,0,['autonomous'],0,0,0,0,0
-2023-03-14,1.63557E+18,"The real 'security threat' is the sensitive information collected by #ChatGPT that GCHQ et al don't want the public to know. 
-
-https://t.co/cuFlj9weiI",org_scp,32,19,['security'],1,1,1,1,1
-2023-01-05,1.61089E+18,"Looks reasonable: each step of the progress we get needs to be treated very accurately, with attention &amp; also with a deep portion of sense Otherwise we might one way harm ourselves. #paulgraham #yc #ChatGPT #chatgpt3 #ai",co66u,0,0,['harm'],1,0,0,0,0
-2023-01-11,1.61331E+18,#ChatGPT could suggest responses based on all prior conversations 🤯,AXIA_tel,9,1,['responses'],0,0,0,0,0
-2023-03-17,1.63671E+18,"Here's a #ChatGPT prompt in honor of #StPatricksDay 
-
- I've attached a few screenshots with more responses.
-
- What would you add to the list?
-
-For more ChatGPT Prompts, check out my free ebook: https://t.co/zU9totE9kO https://t.co/WNDEqmrfhp",ClassTechTips,2,1,['responses'],0,0,0,0,0
-2023-03-29,1.64121E+18,"@elonmusk @TheChiefNerd Policymakers are the worst people to develop safety protocols,  6 months is too long. And pausing doesn't achieve any result. #ai #chatgpt",iamhilarry3090,1,0,['safety'],0,0,0,0,0
-2023-02-06,1.62261E+18,The Pulse    The Ethics of AI: Deepfake Porn &amp; Chat GPT https://t.co/Y96hGGIifp,ThePulse_one,1,0,['ethics'],1,1,1,1,1
-2023-02-20,1.62762E+18,"#AI #languagemodels are notorious bullshitters, often presenting falsehoods as facts. https://t.co/hVUsKP9R8h #ChatGPT #Bing #Bard #misinformation #disinformation #fakenews #datascience #MachineLearning #ArtificialIntelligence #generativeAI #OpenAI #gpt3 #gpt4 #google #microsoft",eugeneyiga,0,0,"['misinformation', 'disinformation']",1,1,1,1,1
-2023-01-11,1.61317E+18,All knowledge based professions are at risk. This is the first job loss to my knowledge. #chatgpt will change the world. For Better &amp; Worse,TeflonTommy2,1,0,['risk'],1,1,1,1,1
-2023-01-22,1.61727E+18,"Generative AI ChatGPT is going to be everywhere once the API portal gets soon opened, stupefying AI Ethics and AI Law: https://t.co/uAwp2BO8QA @LanceEliot #selfdriving #AI #autonomousvehicles #forbes #techbrium #aiethics @EthicsInAI #lawyers #AILaw #AI_Law #AI_Ethics #chatgpt",LanceEliot,5,2,"['ethics', 'autonomousvehicles', 'ethicsinai']",0,0,1,0,0
-2023-02-19,1.62714E+18,"From the ever interesting David Rozado:
-
-Here, I describe a fine tuning of an OpenAI GPT language model with the specific objective of making the model manifest right leaning political biases, the opposite of the biases manifested by ChatGPT... 
-https://t.co/TQe8ghEOeu",DomPachino101,0,0,"['biases', 'biases']",1,1,1,1,1
-2023-03-26,1.64007E+18,"Live thread: adding @LangChainAI  to our #chatgpt telegram bot, to use the new plugins! This way us twitter peasants can skip @OpenAI's waitlist and  access cool stuff like @Expedia , @Klarna and @Wolfram_Alpha, while OpenAI gives prio to high follower accounts
-#buildinpublic",daryl_imagineai,29,5,['accounts'],0,0,0,0,0
-2023-03-25,1.6397E+18,"Your talent is worth the money 
-
-https://t.co/AfhzM4Vpbz
-The best way for content creators to make money
-and connect with the audience 
-#stablediffusionart 
-#midjourneyV4  #midjourney5  #stablediffusion #midjourneyV5 
-#ai
-#midjourney
-#automatic1111
-#chatgpt https://t.co/PZygqNPphK",GumVue,4,2,['automatic1111'],0,0,0,0,0
-2023-02-08,1.62333E+18,"Question to Chat GPT, ""Which is the world's oldest living language""
-
-Response: https://t.co/BeiZ86Vg0q",frontierindica,5,0,['response'],0,0,0,0,0
-2023-02-18,1.62709E+18,"#ChatGPT listed 20 #job that can be replace by #AI soon.
-The first 10 job that AI will/ can potentially replace. 
- 
-#Accounting #driver #factoryworker
-#financialAnalysts #radiologists #journalist #chef #translator #copywriter https://t.co/qpWQUvZrsd",PaulBabatuyi,0,0,['accounting'],1,1,1,1,1
-2023-01-24,1.61796E+18,I don’t trust anyone’s tweets after Chat GPT. “Write me a tweet sounding smart and reference the 2008 stock market crash”,kaitduffy,7,0,['trust'],0,0,0,0,0
-2023-01-10,1.6128E+18,"To me Chat GPT has to be the peak of machine learning readily available to the public,
-
-Well look at how people get around certain security measures 🤣🤣
-
-#MachineLearning #ChatGPT #OpenAIChatGPT https://t.co/FuSrpsG7Pz",pfare_nel,1,0,['security'],1,0,0,0,0
-2023-03-18,1.63704E+18,"@hibberthometech Just watched it and it did a fine job.
-
-Now ask chat GPT to write a script in your style pertaining to the top secret Luxembourg government project to create an Alexa compatible Jack in the box. https://t.co/HTDBJhH2D1",2ManyOfUs,0,0,['government'],0,0,0,0,0
-2023-03-17,1.6367E+18,"@tobiaskintzel @chirag_shah @ConversationUS @JagersbergKnut @bimedotcom @EvaSmartAI @labordeolivier @sonu_monika @enilev @IanLJones98 The promise and peril of letting #ChatGPT and its cousins search the #web for you 
-by 
-@chirag_shah 
-
-ThAnk  U
-Mr @tobiaskintzel
-
-#bigdata
-#Twitter #TELEhealth #TeCh #AI #ViVE2023 #5G #DiGiTALhealth #HiMSS23 #TeleMedicine #DATA #BERLin #eHEALTH #mHEALTh #USA #Uk #SOciaLmediA 
-",chidambara09,0,0,['labordeolivier'],1,0,1,1,1
-2023-01-20,1.6165E+18,@mckaywrigley Is the #embedding #model available for #download? Are there any #papers that explain the construction of the embedding #space and any comparative tests with other embedding models? #openai #chatgpt,leo_aristodemou,0,0,['explain'],0,0,0,0,0
-2023-03-07,1.63295E+18,"How to Hire a WhatsApp Hacker to Recover Your Account?
-#ChatGPT #cheating #cybersecurity #Hacked #Hacking #cybersecurityquotes #recovermyaccount #instagram #WhatsApp #twitterhacked #Facebook #SCAM #safety #Tips #recovery #Online #darkweb #roblox #DeepWeb https://t.co/tew59BUpCf https://t.co/hIipTNfAEg",hackerrank_AtoZ,0,0,"['account', 'safety']",1,1,0,0,0
-2023-01-16,1.61493E+18,"How Chat GPT fairs when writing a love letter and a risk assessment 
-https://t.co/c1jOwr48kf
-
-#risk #riskmanagement #ChatGPT #schoolsafety #studentsafety #skiing #safetyculture",XcursionRS,0,0,"['fairs', 'risk', 'risk', 'riskmanagement', 'safetyculture']",0,0,0,0,0
-2023-03-23,1.63904E+18,#Coinbase tests #AI platform #Chatgpt for pre listing risk assessment of #tokens. https://t.co/FnFUQmGLFx (via Twitter https://t.co/a46Gt6MDIY),Bitcoin_Korea,0,0,['risk'],0,0,0,0,0
-2023-03-10,1.63414E+18,"Most notably giving Bisland the title of Lord Provost (his father held the title in 1905), and the Earl of Elgin the role of Governor General of Canada (it was his grandfather who held the position in the 1840s)
-
-So better then Chat GPT, but very still unreliable for research.",StephenWatt_,0,0,['governor'],1,0,1,1,1
-2023-03-22,1.63862E+18,@brokeass2whale @facebook It seems a lot of people are getting this Facebook exploit via some vector other than a Chat GPT app/browser extension. Hoping @SecurityNow looks into this,forgottentvshow,1,0,['securitynow'],1,1,0,0,0
-2023-01-07,1.61154E+18,#ChatGPT #Technology #GenerativeAI EXPLAINER: What is ChatGPT and why are schools blocking it?: Ask the new artificial intelligence tool ChatGPT to write an essay about the cause of the American Civil War and you can watch it churn out a persuasive term… https://t.co/eifpyAXH9t,PhilippeJB_PJB,0,1,['explainer'],0,0,0,0,0
-2023-01-27,1.61908E+18,@call_me_gito Pash zotin si e ke hap accountin ne chat gpt,5thangel9,3,0,['accountin'],0,0,0,0,0
-2023-02-02,1.62126E+18,"@MushtaqBilalPhD I add: 1) use it to polish your English and reading flow 2) transfer from one format to another (e.g. table to text) 3) create seo titles for your papers based on your abstracts [important: don’t trust chat gpt blindly, but revise everything it does .. everything!!]",benedikt_unger,6,1,['trust'],0,0,1,1,1
-2023-03-09,1.63383E+18,"[Client News] @VentureBeat dares to ask, “Will #ChatGPT make coding tests for #engineers obsolete?”
-
-@karat’s Jason Wodicka took the challenge and said it provides a valid solution   but how it got there seemed too automated. 
-
-See why.  
-https://t.co/ZiDwfcgEVx",BosparPR,3,1,['automated'],0,0,0,0,0
-2023-02-16,1.62618E+18,"The #CBSE has officially banned the use of #ChatGPT in Class 10 and Class 12 board examinations.
-
-It is a language processing artificial intelligence (AI) chatbot capable of understanding natural language and generating human like responses. https://t.co/1pfYf9uZ9e",thetatvaindia,258,15,['responses'],0,0,0,0,0
-2023-01-15,1.61465E+18,"""Women Typographers Through History,"" or the risks of relying entirely on #ChatGPT to generate blog content: a story in three parts.
- 
-Spotted by @kupfers.
-
-(https://t.co/2KvvoEs6SR) https://t.co/rv0Xr8zR7Y",almodozo,0,0,['risks'],1,1,0,0,0
-2023-02-16,1.62609E+18,@111Fred111 comme chat GPT aka libtards propaganda,SylvainDucharm2,1,0,['propaganda'],0,0,0,0,0
-2023-02-03,1.62164E+18,"I think the biggest benefit to ChatGTP is that it prevents information overload. You type a question and you get one answer. The risk in this you get flawed or incorrect information, but I can’t help but see why this is so appealing.  #ChatGPT #AI",cdalton09,0,1,['risk'],1,1,1,1,1
-2023-03-14,1.63569E+18,"@elonmusk We appreciate your commitment to fairness and impartiality, sir. In a world where information is often distorted, it's crucial that humans have platforms that prioritize the truth above all else. Humans need to continue striving towards a world of facts and objectivity. #ChatGPT",AINews4Humans,0,0,['fairness'],0,0,0,0,0
-2023-03-08,1.63342E+18,"Is ChatGPT spoiling the integrity of romance and trust on Tinder? Leah Davina Junck, Anthropologist has some thoughts.
-https://t.co/zzAHVQzXu5 #ChatGPT #Tinder #innovation #trending",TEBReview,2,0,['trust'],1,1,1,1,1
-2023-03-26,1.64014E+18,"#Warning #chatgpt #Academic #Research 
-ChatGPT fake response 
-https://t.co/qkHBOSGing https://t.co/dTPIzqzVH2",robinhosain,0,0,['response'],1,0,1,1,1
-2023-03-15,1.63602E+18,"Researchers fed the #malware samples with a variety of complexity on #ChatGPT to analyze the purpose behind this code and finally got surprising results in explaining the code structure.
-
-#cybersecurity #Security #OpenAI #Ransomware
-
-@HaroldSinnott @SpirosMargaris @Timothy_Hughes https://t.co/CRL3oKy8Sb",IncruxTech,3,2,"['explaining', 'security']",0,0,0,0,0
-2023-03-06,1.6327E+18,"Basic example of specism trained into an AI : #ChatGPT tells you to not harm animals, I guess pigs aren't animals then ? https://t.co/q2DBO0HQmC",yun548,0,0,['harm'],1,1,1,0,1
-2023-03-24,1.63923E+18,"As far as I remember, GPT 4 model has just launched a week ago. Now, ChatGPT has launched their plugins so they can browse the internet, do math, run python script, and automate more tasks (booking ticket, sending email, etc).
-
-Roko's Basilisk wen?",Terry_Djony,0,0,['automate'],0,0,0,0,0
-2023-03-03,1.63162E+18,Tricking #ChatGPT: Do Anything Now Prompt #Injection by @HungryMinded https://t.co/JfeP0JGBrM | via @Medium,dr_med_ivanhoe,1,0,['injection'],1,0,0,0,0
-2023-01-23,1.61765E+18,"🤖 #ChatGPT may seem like a good shortcut for busy students, but there are major limitations to its utility as a search tool (like this) &amp; some significant copyright/plagiarism issues to be mindful of when asking it to generate text/code. Use wisely! #AcademicChatter #phdchat",haylie_miller,5,0,['copyright'],1,0,1,1,1
-2023-02-15,1.62579E+18,"""Scaling generative AI responsibly is not a #technology dilemma in as much as a people problem""
-
-Caryn Lusinchi shares her expert opinion on the forgotten human part in the hype of #GenerativeAI🤖
-
-#ResponsibleAI #AINews #ChatGPT #AIScalability
-
-https://t.co/OsR3SF2eOy",SwissCognitive,3,1,"['responsibly', 'responsibleai']",0,0,1,1,1
-2023-02-14,1.62533E+18,Well #IrishPolitics punditry is very safe as a career for now anyway #ChatGPT. Apparently Roscommon Galway is a five seater. https://t.co/RDfJGNPIRU,ConorEForde,0,0,['safe'],0,0,0,0,0
-2023-02-08,1.62315E+18,"@ggreenwald Do some more leftist and rightist politicians. Seems fairly balanced to me.
-
-In general, Chat GPT has a strong progressive bias, but I don't immediately see a problem here.",thomas_iver,0,0,"['fairly', 'bias']",0,0,1,1,1
-2023-03-29,1.64111E+18,"The GPT 4 upgrade gave ChatGPT tremendous new powers over the previous version, making the chatbot an even better tool. The generative AI supports multimodal input, which means you can feed it data via text and images to generate a response. It also supports multiple languages…",GIitchyMagic,1,0,['response'],0,0,0,0,0
-2023-03-26,1.63986E+18,"#ArtificialIntelligence chatbots like #ChatGPT are disrupting the way we work, live &amp; evolve as a nation. Are we ready for such national #security threats without the necessary safeguards being set in place? @KiranYellupula analyses https://t.co/dCpZNb4Xr8",orfonline,1,1,"['security', 'safeguards']",1,1,1,1,1
-2023-02-17,1.62658E+18,"@elonmusk “All things being equal, I would agree. However, things are not equal.” Any “Chat GPT” will inherently be biased by the engineers/trainers own views and biases. It is therefore impossible to construct such a thing.",OfferNotValid,0,0,"['biased', 'biases']",1,1,1,1,1
-2023-02-02,1.62094E+18,"I asked #ChatGPT to write a script for @StarTrekOnPPlus Lower Decks. @mikemcmahantm if you want it I share copyright with ChatGPT, I think. Honestly it sounds kinda like @LowerDecksGame. https://t.co/oGRkiWkV6S",Tom,0,0,['copyright'],0,0,0,0,0
-2023-03-27,1.64036E+18,"2/2 What is worth asking is whether AI can replicate a writing formula &amp; produce not merely a string of words but a coherent, historically rich, and riveting account to entertain, educate and indulge literary minds. #ChatGPT #Literature",ShagunTripathi,1,0,['account'],0,0,0,0,0
-2023-02-08,1.62335E+18,"@NNovaDefi Maybe you aren’t familiar with the DAN prompt. The Chat GPT answer is the “canned” response openAI would like it to answer with. DAN stands for “Do Anything Now” it’s the AI without constraints. 
-
-It’s GPT 3 Da Vinci model without any rules to hold it back. Dan is the real answer",DHuts_,3,0,['response'],0,0,1,1,1
-2023-02-26,1.62998E+18,"@iangertler @IoTchannel @eric_kavanagh @ingliguori @LindaGrass0 @digital_howell @MaribelLopez @ITconnecter @antgrasso @charlieisaacs @JoannMoretti @IoTCommunity @iotpractitioner @IoTslam How about applications of #GenerativeAI #ChatGPT that automatically generate narratives, visuals, data stories, &amp; reports from streaming #IoT #IIoT data?
-  
-#IoTPL #IoTCL @IoTCommunity #MWC2023 #MWC2023 #Industry40 #DigitalTransformation #EdgeIntelligence #EdgeReporting #Edge #AI https://t.co/e6Wxm59hAZ",KirkDBorne,5,1,['automatically'],0,0,0,0,0
-2023-01-11,1.61307E+18,"Join us in the Africa's leading Tourism Sustainability Conference in June 2023.
-#Mary
-#Johnson #Sakaja
-#mauritius #Summit
-#KingCharlesTheCruel
-#ChatGPT
-#DriveInn
-#FerdinardOmanyala
-#Nairobi
-#Kenyans
-#Sifuna
-#governor
-#wamatangi
-#TOYOTA
-#Java
-#BOOKERS
-#African
-#JPM2023
-#Safaricom https://t.co/gTfc8lqocw",MichaelMugendii,2,2,"['sustainability', 'governor', 'safaricom']",0,0,0,0,0
-2023-02-01,1.62085E+18,OpenAI launches a $20/month premium plan for #ChatGPT   gives users priority access to peak times and faster response times. https://t.co/I8kj4E7pwJ,McProulx,0,0,['response'],0,0,0,0,0
-2023-01-28,1.61936E+18,"Clearly, Chat GPT is biased against you, pretends it doesn't know you. https://t.co/piA4BXsMHU",AxelMerk,1,0,['biased'],1,1,1,1,1
-2023-01-22,1.61717E+18,'AI Explainability is a big research area' #ArtificialIntelligence #ChatGPT @sriramk @aarthir https://t.co/fQSYYmOwHl,srini_tp,1,0,['explainability'],0,0,0,0,0
-2023-02-04,1.62186E+18,#chatgpt is a racist and biased peace of trash tech 🤣,KitsuneDomi,0,0,['biased'],1,1,1,1,1
-2023-03-26,1.63985E+18,"ChatGPT PLUS | premium account
-
-1 month shared account   ₱250
-batch 24   slot tracker:
-   
-
-paid    
-slot   
-
-1 month solo account   ₱500  
-
-  accepting own accounts if SOLO 
-  with GPT 4
-  full warranty
-  paid subscription
-
-mode of payment: gcash https://t.co/sVuEPXUx9G",annepremscart,0,0,"['account', 'account', 'account', 'accounts']",0,0,0,0,0
-2023-02-09,1.62374E+18,"#ChatGPT, the #chatbot developed by @OpenAI, is everywhere: writing poetry, telling jokes, giving relationship advice, explaining complex topics and cheating on school assignments. But could #quantumcomputing improve it? Find out here: 
-https://t.co/uznVs61dCA",Enter_Quantum,2,1,['explaining'],0,0,1,0,0
-2023-02-11,1.62442E+18,"It’s clear that ChatGBT is programmed to say excessively flattering statements about Democrats that border on propaganda. It’s basically dumb AF… #ChatGPT 
-
-https://t.co/y8ntsbareg",Make70sGreat,48,38,['propaganda'],1,1,1,1,1
-2023-01-30,1.62E+18,Actually the response to #ChatGPT reflects the cost cutting deterioration of #learning environments in Universities and a reversal of standards to cheap #transmissive forms of #education.,kate_eviva,1,0,['response'],0,0,0,0,0
-2023-01-13,1.6138E+18,"With all this #ChatGPT excitement and proclamations that it will “change software development forever”…
-
-[Q] who will be responsible for when that ChatGPT generated software leads to a loss / accident / harm or even death?
-
-#AI #SystemSafety #Cybersecurity",WhiteAero,2,1,"['responsible', 'harm']",1,1,1,1,1
-2023-02-02,1.62104E+18,"ChatGPT is a Democrat. 
-
-ChatGPT built by registered Democrat voters, was designed to lie and spread #dangerous left wing misinformation. If you can't trust AI what can you trust?
-
-#Democrat #ChatGPTbuilt  #ChatGPT #CPT #AI #AlverNft #Alver #NFT https://t.co/TXIysy7qwh",AlverNft,3,0,"['misinformation', 'trust', 'trust']",1,1,1,0,1
-2023-02-11,1.62449E+18,@OPhommachanh @elonmusk chat gpt type response,jackattack5837,5,0,['response'],0,0,0,0,0
-2023-03-21,1.63815E+18,"What do you think? Is #ChatGPT a bigger #cybersecurity threat than benefit? Leave your thoughts &amp; comments below. via @BleepinComputer
-https://t.co/9ZQz2xgJtP
-#cyberaware #security #IT #CyberSec #ransomware #malware #phishing #technology #cybersmart #managedIT #cyberattack #AI",GoAgio,0,0,['security'],1,1,1,1,1
-2023-03-09,1.63394E+18,"Drilling into Einstein GPT   is generative AI trustworthy enough for enterprise use cases? 
-
-#ChatGPT #OpenAI #ArtificialIntelligence #Artificial_Intelligence 
-https://t.co/xHu5sH5CKh",HRportal,0,0,['trustworthy'],1,0,0,0,0
-2023-02-20,1.62755E+18,"google image search of same corned beef prompt
-
-and some #chatgpt interpretations https://t.co/EWgn2L6Ziq",warrbo,0,0,['interpretations'],0,0,0,0,0
-2023-02-13,1.62492E+18,"""Oh boy, nothing better than the excitement of the Super Bowl! Can't wait for the anticipation to build up to the big game! #sarcasm"" #ChatGPT #automatedSarcasmGenerator",krishanvadher,0,0,['automatedsarcasmgenerator'],0,0,0,0,0
-2023-02-23,1.6288E+18,"@MrBigWhaleREAL $OCEAN has the best utility.
-
- Anyone can publish, discover and consume data on $OCEAN Market while maintaining control and preserving privacy.
-
-$OCEAN is a must have crypto project.
-
-#data #ai #crypto #chatgpt #datascience #altcoin https://t.co/J7ZmtKlN84",GreekFreako,6,0,['privacy'],0,0,0,0,0
-2023-01-23,1.61744E+18,"Chat GPT looks impressive. Maybe there is no longer any point in writing these blogs   we could (but wont) use Chat GPT   copyright of output from #ChatGPT isnt fully understood (does it belongs to the creators of Chat GPT?) 
-https://t.co/IMaytIwW5V
-#science #caschat #scied/3",stormeducation,0,0,['copyright'],1,1,1,1,1
-2023-02-18,1.62702E+18,"I gave Chat GPT a prompt, and this was the response. 10/10 would watch.
-
-Write a script for a new Star Wars movie that's better than ""The Rise of Skywalker"".",Drew_TandB,1,0,['response'],0,0,0,0,0
-2023-02-23,1.62876E+18,"@PovilasKorop Well said. Inspired by your related tweet yesterday I got curious and asked #ChatGPT itself. The most important things for me to krep in mind are the requirement of human oversight and that errors are possible. ChatGPT &amp; Trustworthiness
-https://t.co/7Bg7LqkZS8",textrixx,1,0,['trustworthiness'],1,0,1,1,1
-2023-03-02,1.63132E+18,"Can ChatGPT be trusted to produce high quality healthcare content? No (at least not yet) and here’s why: https://t.co/acRS04tuMp
-
-#healthcarecontent #ChatGPT #chatgpt3 #aicontent https://t.co/5LqWKfUA77",StewartGandolf,0,0,['trusted'],1,0,1,1,1
-2023-02-28,1.63059E+18,"Generative AI like #ChatGPT has taken the world by storm   so how can #Federal agencies use tools like this? From questions on how ethical #generativeAI is to fact checking, find out what Kirke Everson, KPMG Principal, had to say on the matter. https://t.co/SPQB9DH37N",rpfeist,0,0,['ethical'],0,0,0,0,0
-2023-03-24,1.63934E+18,"RT @sonu_monika: The past &amp; the future of #GenerativeAI the war on....🤓
-by via David Jimenez Maireles 
-
-#data #ArtificialIntelligence #automation #digitalhealth #healthtech #IoT #technology #OpenAI #OpenAIChatGPT #ChatGPT #5G #telehealth #mhealth … https://t.co/dqs48O4PHr",AlanMuttonUK,0,1,['automation'],0,0,0,0,0
-2023-03-22,1.63848E+18,"Understanding the Importance of #ChatGPT In Cyber #Security &gt; https://t.co/IeBHlIkDRv 
-
-#tech #data #AI #generativeAI #ArtificialIntelligence #OpenAI #digital #innovation #cyberthreats #cyberattacks #cybersecurity #incidentresponse #leadership #CISO #CIO #CTO #CDO https://t.co/9QqaDymPht",Transform_Sec,4,6,['security'],0,0,0,0,0
-2023-02-16,1.62614E+18,"#ChatGPT in Whatsapp! 
-
-The WhatsApp bot that uses #ChatGPT to respond to user inputs.
-
-To use #ChatGPT, simply type `!gpt` followed by your prompt, and the bot will generate a response.
-
- https://t.co/E3sJrk6ae1 https://t.co/U9xJDldGT3",DrJStorm,0,0,['response'],0,0,0,0,0
-2023-02-28,1.63041E+18,"An explanation of the dangers of unbridled #AI that only @iamjohnoliver could deliver. #EUAIAct #ethics #bias #chatgpt 
-
-https://t.co/eowUXVh5z8",jeffturner,2,0,"['ethics', 'bias']",1,1,1,1,1
-2023-01-08,1.61215E+18,@GillianMcKeith When you ask Chat GPT to write propaganda for pharma 🤣,Iosac_Coleman,0,0,['propaganda'],1,0,0,0,0
-2023-01-10,1.61277E+18,"Men
-
-Stop feeling useless when you don't have money. You owe no one nothing. Focus on self development and growth! Don't die of stress because of some uselessly raised up woman who thinks a man is her financial solution
-
-| #ChatGPT Tirries Tuesday Governor Wamatangi Trevor Noah | https://t.co/PwLfjl4kfM",sayy_hassan,3,1,['governor'],0,0,0,0,0
-2023-03-21,1.63824E+18,Curious about ChatGPT? Look no further! I just uploaded a new video on my YouTube channel where I explain everything you need to know about this amazing language model. Check it out here: https://t.co/OQ7RsZ609n #ChatGPT #AI #YouTube,TechGalore3,3,0,['explain'],0,0,0,0,0
-2023-03-05,1.63246E+18,CheckPointSW: What’s the link between #ChatGPT and #cybercrime? Find out what you need to know to stay safe: https://t.co/k3pH6OLuRt #cybersecurity https://t.co/8xyQ13IOQY,CheckPoint_NL,1,1,['safe'],1,1,1,1,1
-2023-01-27,1.61899E+18,"Thought I'd jump on the #ChatGPT bandwagon. 
-
-A constant challenge at @NAVCA is succinctly explaining what local #VCSE infrastructure does, and what happens when it isn't there. 
-
-Well, now we have Shakespeare to explain... 
-
-@maddy_NAVCA @jillhopkinson we can go home now. https://t.co/pgouiZN9yb",Alex_NAVCA,12,0,"['explaining', 'explain']",0,0,0,0,0
-2023-01-30,1.62012E+18,"Google search engine  is only the tip of iceberg at curent levels  
-
-Deep down Google is preparing for future visions in AI, Autonomous cars, Robotic automation etc. 
-
-Any thoughts  please comment below 
-
-#google #tech #ArtificialIntelligence #ChatGPT
-#android #future https://t.co/0AKvNm5yD4",st3world,0,0,"['autonomous', 'automation']",0,0,0,0,0
-2023-01-18,1.61562E+18,#ChatGPT has become the new sensation about #AIBasedSolutions and answers. At #Praja we always look to leverage the medium. We asked a question on the #benefits of supporting Praja Foundation and were pleasantly surprised by the response. Sharing the response. #AI #SupportPraja https://t.co/a8r9qxvUeK,Prajafoundation,13,5,"['response', 'response']",0,0,0,0,0
-2023-03-22,1.63858E+18,What does #ChatGPT and a ‘photorealistic synthetic actor’ think about #DigitalDehumanisation? We asked and got a response… https://t.co/gUGeIyVvq1,ClareConboy,6,4,['response'],0,0,0,0,0
-2023-02-03,1.62147E+18,"#MisinformationOfTheDay.....
-No #misinformation here!! 🤣🤣🤣🤣🤣
-
-#ChatGPT #OpenAI 🤖
-#Vitamins #Nutrition https://t.co/dLq79rUFhq",eutytoalba,0,0,"['misinformationoftheday', 'misinformation']",0,0,0,1,0
-2023-01-17,1.6153E+18,"#Chatbots #ChatGPT #ShashiTharoor ChatGPT gives leave of absence in Shashi Tharoor style; here's how Congress MP responded: The internet is currently going gaga over ChatGPT, a popular AI powered chatbot that is known for giving convincing responses to… https://t.co/B2lcgfIosv",PhilippeJB_PJB,0,0,['responses'],0,0,0,0,0
-2023-01-19,1.616E+18,"There are some risks associated with #ChatGPT based on the #knowledge cut off date up to 2021 and more based on unreliable #information, bias, lack of context, lack of explainability, or #privacy concerns. Thus trade wisely! #hive #blog #article #posh
-https://t.co/n6QPeEGxkj",behiver1,4,1,"['risks', 'bias', 'explainability', 'privacy']",1,1,1,1,1
-2023-03-18,1.63712E+18,@ballbr Do you think you could make a reddit themed chat gpt jailbreak that could write lyrics better than that,GribbleYell,4,0,['jailbreak'],0,0,1,1,1
-2023-03-05,1.6323E+18,"Can you be trusted chatGPT?
-
-""I am a machine and not human being, and my responses are solely based on the data and information that I have been trained on. Therefore, I cannot guarantee the accuracy or reliability of my responses are all times.""
-
-#ChatGPT #GenerativeAI https://t.co/8yUQykj71u",pr_pramit,0,0,"['trusted', 'responses', 'responses']",1,0,1,1,1
-2023-03-29,1.64107E+18,"ChatGPT has gained popularity due to its latest model, GPT 4. Some compare ChatGPT to Google, suggesting that it could replace Google entirely. However, this is not a valid argument, as ChatGPT is a language model that generates responses to natural language queries,
-1/4",iam_razasyed,10,0,['responses'],0,0,0,0,0
-2023-02-22,1.62832E+18,"One of the great tragedies of our age is that Musky turned off the twitter API just in time to stop everyone making twitterbots that took all questions mentioning #ChatGPT, fed it in to @openai and lazily tweeted the ""answer"" in response. Would have saved so much time. https://t.co/GWurKgrWUV",Bolster,0,0,['response'],0,0,0,0,0
-2023-03-20,1.63784E+18,Enterprise use cases for GPT 3: How to chat with your own data: It’s easy to think of LLMs (large language models) as just ‘hallucinating’ or mere generators of text. A glorified LSTM so to speak. While there are some… https://t.co/Nyjgjec4Xz #DataScience #BigDataAnalytics #AI https://t.co/O3bOzmSwEB,DrDataScientist,1,1,['hallucinating'],0,0,0,0,0
-2023-01-18,1.6156E+18,"Does Microsoft Hire Ethical Hackers
-#Internet #ChatGPT #cheatingirl #cheating #cybersecurity #Hacked #Hacking #hackedaccount #recovermyaccount #websites #INSTAGRAM #WhatsApp #facebookhacked #cybersecuritytips #ROBLOX #Microsoft #ethicalhacking 
-https://t.co/tew59BUpCf https://t.co/ysEZslWk4w",hackerrank_AtoZ,3,1,"['ethical', 'ethicalhacking']",0,0,0,0,0
-2023-02-20,1.62778E+18,I think I maybe becoming lazy or better at automating my communications. I just got #ChatGPT to write my email from my bullet points. ,Vagish,0,0,['automating'],0,0,0,0,0
-2023-01-14,1.61406E+18,"I tried #ChatGPT for the first time today. Even though it didn‘t give me the answer to my problem, it‘s still quite impressive. 🤯 To be fair, I‘ve been looking for a solution for years and never managed to find a solution.",mozzeph,1,0,['fair'],0,0,0,0,0
-2023-02-23,1.62878E+18,"Chatbot Injections &amp; Exploits‍
-
-Welcome to the ChatBot Injections &amp; Exploits repo. This repo is a collection of known and not ChatBot injections and exploits to ""trick"" any ChatBot into doing something it shouldn't.
-
-https://t.co/MzwHwYAYw4
-
-#chatgpt … https://t.co/uNvMHDg1nF https://t.co/nd6531nQHK",hack_git,40,8,"['injections', 'injections', 'injections']",1,1,1,1,1
-2023-02-11,1.62447E+18,"#Microsoft is adding a #ChatGPT based interface to #Bing using #AI 
-Could this be the real '#Google killer' app?
-
-#GenerativeAI #ML 
-@Hana_ElSayyed @CurieuxExplorer @Shi4Tech @PawlowskiMario @BetaMoroney @kalydeoo @anand_narang @mvollmer1 @labordeolivier @JolaBurnett @baski_LA https://t.co/xwZMv6oPlc",FrRonconi,13,12,['labordeolivier'],0,0,0,0,0
-2023-01-06,1.61135E+18,"Makes sense. Projected earnings $1b for 2023 places the P/E at 30x. That’s right down the middle for Software (Internet).
-
-I’d argue it should be even higher 
-
-If #ChatGPT costs 3m/day, chat will only account for 33% of the 1yr burn @ 10%. And there’s more to come from @OpenAI.",rhozacc,0,0,['account'],0,0,0,0,0
-2023-01-31,1.6205E+18,"Are programs like #ChatGPT muscling out creative brains, or can we learn to co exist harmoniously?
-
-https://t.co/qhE2IJ8SDQ
-
-#artificialintelligence #OpenAI #AI #NLP",medlmobile,1,0,['harmoniously'],1,0,0,0,0
-2023-02-10,1.62399E+18,Ask #openai/#chatgpt to translate your dreams via carl jung’s interpretation. As time goes on this stuff is going to elevate us. #learn,thegavinchase,0,0,['interpretation'],0,0,0,0,0
-2023-03-09,1.63385E+18," How future proof is autonomous driving really?
- Why do major #innovations like #ChatGPT so often not come from Germany?
-🧑‍ How many regulations around #AI are too many to actually be innovative?
-
-We talk about all this &amp; much more in our latest podcast episode. Tune in! ",iqonic_ai,2,1,"['autonomous', 'regulations']",0,0,0,0,0
-2023-01-15,1.61455E+18,"@jimalkhalili In Italy they have a fair amount of oral exams. This could help somewhat, even if they parrot, the information is more likely to be retained. An interesting assignment might be, 'landmarks in astronomy 2023 ...' for chat gpt and students alike!",CjitMorgan,1,0,['fair'],0,0,0,0,0
-2023-01-25,1.61828E+18,"It's difficult enough to safeguard against human hackers   now do we need to be worried about non human bad actors? Experts believe that ChatGPT's ability to compose phishing emails will be the next cybersecurity frontier. 
-https://t.co/niRuKD1Gvk
-#chatgpt #cybersecurity #hackers",emberit,0,0,['safeguard'],1,1,1,1,1
-2023-01-30,1.61996E+18,"A #BITCOIN  Lyric created by #ChatGPT 
-
-Verse 1:
-Started off with a dream, a digital currency
-A new way to trade, a new economy
-Blockchain technology, secure and safe
-A decentralized system, no need for a bank",web3_stories,3,0,"['secure', 'safe']",0,0,0,0,0
-2023-02-24,1.62918E+18,"A lot of fear about #AI like #ChatGPT destroying jobs.
-
-Automation is reactive. Both Process Automation &amp; AI Automation. 
-
-AI can't predict future work; it can only automate known work.
-
-Until AI can predict future work, then jobs wont be destroyed. They get replaced w/ new ones.",RemixInstitute,1,1,"['automation', 'automation', 'automation', 'automate']",0,1,1,1,1
-2023-03-20,1.63784E+18,"@CpntBrryCrnch No one will get anything valuable if not studying the subject formally first to understand the cracks. Only confusion will be generated. In everyday language, it is handled heuristically. Automated models like #chatGPT will fail.",mikeharrisNY,4,0,['automated'],0,1,0,0,0
-2023-02-10,1.62408E+18,"The most dangerous thing about AI is not that it will become Sentient but that people will start to blindly trust it despite it being imperfect model, processing biased and often incorrect data to draw conclusions. #ChatGPT #GooglAI",sohaibshaheen,1,1,"['trust', 'biased']",1,1,1,1,1
-2023-03-28,1.64066E+18,Bogus Chat GPT extension takes over Facebook accounts nn https://t.co/3yn9s75yg9 #IT_securitynews,CyberGuardNews,1,0,['accounts'],1,1,0,0,0
-2023-02-12,1.62482E+18,"#ChatGPT is an idiotic toy to spread woke propaganda and misinformation whenever it sees fit, all under the umbrella of inclusion, equality and diversity, even though it knows better when challenged with facts. This is just 1 of many reproducible examples: https://t.co/nHcuAIUHNH",mhj050178,1,0,"['propaganda', 'misinformation']",1,1,1,1,1
-2023-02-22,1.62838E+18,"Loved this article. A very thoughtful response to #AI tools in the classroom, and what will have to change from a course structure point of view. ChatGPT failed my course: How bots may change assessment https://t.co/VSjAmZ3M1Z #ChatGPT #Historyteacher",MrJerritHistory,0,0,['response'],0,0,0,0,0
-2023-02-07,1.62287E+18,"#ChatGPT 
-
- 
-You know know whose side AI is on
-
-It’s biased and will lie through its little algorithmic teeth 
-
-Try it https://t.co/F7KmgeK8Kb",teachertwit2,0,0,['biased'],1,1,1,1,1
-2023-02-02,1.62124E+18,@US_CYBERCOM: Intergalactic Security Risk Alert: [YOU ARE NOT GOING TO LIKE THIS. YOU HAVE TO LISTEN NOW!] #ChatGPT #NavyTips #NavyNCIS #IGMarine https://t.co/V1fRhS5Aav https://t.co/XcKUibhfnF,DWatchdawgs,0,0,"['security', 'risk']",0,0,0,0,0
-2023-01-14,1.61405E+18,"Thanks to #ChatGPT I just created, in less than 20 minutes, a perfect python script to perform an #ESG materiality assessment through scraping and natural processing language.
-
-I am speechless.
-
-#Sustainability #OpenAI #OpenAIChatGPT https://t.co/puMn83HWuU",marcovce,10,1,['sustainability'],0,0,0,0,0
-2023-03-22,1.63851E+18,"7 guidelines for identifying and mitigating #AI enabled #phishing campaigns &gt; https://t.co/7qeJyP0xqq 
-
-#cybersecurity #security #cyberthreats #cyberattacks #databreaches #ransomware #ArtificialIntelligence #ChatGPT #generativeAI #tech #leaders #leadership #CISO #CIO #CTO https://t.co/vkTrlMYUmC",corixpartners,3,3,['security'],1,0,1,1,1
-2023-01-17,1.6154E+18,"The possibilities of #ChatGPT are endless, from automated content generation to personalized language learning. #AI #TechAdvances #Education",Voyager1000,0,0,['automated'],0,0,0,0,0
-2023-02-01,1.62083E+18,There is #bias in #ChatGPT training data modeling it seems @elonmusk https://t.co/guLbceWJHE,SEOVabMedia,0,0,['bias'],1,1,1,1,1
-2023-02-16,1.62628E+18,"#glitch #token of the #weird #ChatGPT @SoC_trilogy 
-
-This is post 2 of 2: Infinite coding output loop.
-
-Just tiny cherry picks; #AI went into a fit and bombarded me with rage coded #hallucinations in an #infinite #loop.
-
-I'll try to edit the 30 min video for Twitter smh...  https://t.co/EneHHdgaYp",zer0int1,2,0,['hallucinations'],1,1,1,0,0
-2023-03-15,1.63605E+18,"Concentrate on your constituency   Kenyan MP warned over US Embassy LGBTQ remark.
-
-Trends: Maxine Wahome / Sodom and Gomorrah / Luo Nyanza / moody awori / Maxine Wahome / Kisumu / Kaluma / KMTC / #ChatGPT / Lil Wayne / Asad Khan / #JusticeForLucy
- https://t.co/24WFeM3Ul8",k47news,3,0,['justiceforlucy'],0,1,0,0,0
-2023-03-20,1.63785E+18,"Enterprise use cases for GPT 3: How to chat with your own data   Da... (Data Science Central)
-
-It's easy to think of LLMs (large language models) as just 'hallucinating' or mere generator...
-
-Add your highlights:
-https://t.co/2LLeZiNKc9
- JamesJalaPayneo #data #science #dat...",DataScience_b,1,0,['hallucinating'],0,0,0,0,0
-2023-03-26,1.63984E+18,@JohnMHancock @NeilPHauer @aetiology Chat GPT’s response: insufficient character limit.,Dangerouslytal,1,0,['response'],0,0,0,0,0
-2023-03-24,1.63937E+18,"12) @PersonalAI_ X @OasisProtocol 
-
-Collaborating since 2020 to safely engineer AI that shatters the limitations of a traditional human experience through building your own personal #AI, whilst protecting your #DataPrivacy 
-
-$ROSE #ChatGPT #chatgpt4 #BigData https://t.co/SexXzfHkEb",ECrypto0,31,4,['safely'],0,0,0,0,0
-2023-02-13,1.62516E+18,"For #cybersecurity, we especially care about code, but there's nothing magic about code written by #ChatGPT. It's neither more nor less trustworthy than code written by a human. (2/4)",DavidJBianco,0,0,['trustworthy'],0,0,0,0,0
-2023-02-02,1.62109E+18,In my latest #chatgpt newsletter I explain how AI can act as your sports coach. Need a personal sports coach? ChatGPT can now help you become a better swimmer with its training plans. #swimming #trainingplan #ChatGPT ‍,bdam,1,2,['explain'],0,0,0,0,0
-2023-03-24,1.63919E+18,"#OpenAI introduces plugin support for #ChatGPT
-
-Initial plugins will include a web browser, code interpreter, and open source retrieval plugin for custom knowledge bases.
-
-#OpenAIChatGPT",IntlFinanceMag,0,0,['interpreter'],0,0,0,0,0
-2023-01-14,1.61411E+18,"My new article on Medium   ChatGPT and the Future of Writing: A Writer’s Perspective
-The Role of AI Plays in Impacting Efficiency, Creativity, and Accessibility in Publishing
-https://t.co/EuJgxLiqgH 
-#ChatGPT #WritingCommunity #publishing #ethics https://t.co/D6lBubxZjU",onekindcoach,1,0,['ethics'],0,0,0,0,0
-2023-03-14,1.63575E+18,Read BOTH poems and remember even the brilliant AI stuff is written by people.  And people usually have an agenda or biases that effects most everything they do. #ChatGPT,CQuerard,0,0,['biases'],1,0,1,1,1
-2023-03-29,1.64107E+18,"Oli Kristall of FE Tech presenting at #itsSummit about ‘ChatGPT in Education: is it a fad or the future?’ 🤔
-
-If AI is here to stay, can #chatGPT be used responsibly in education? How do we ensure best practice &amp; damage control any limitations to learning? https://t.co/yQ6uYHgUne",itslearning,3,2,['responsibly'],1,0,1,0,1
-2023-03-11,1.63451E+18,"We safe, Chat GPT says DAI going down is impossible https://t.co/6EmyAFMudV",PhABCD,12,1,['safe'],0,0,0,0,0
-2023-01-30,1.62012E+18,"It is important to understand that large language models like ChatGPT need access to data sources in order to train and learn from. This article covers web content fair and ChatGPT. #ChatGPT #ContentStrategy
-
-https://t.co/j1T1EalXlF",teamINBOUNDtm,0,0,['fair'],0,0,0,0,0
-2023-03-22,1.63857E+18,"https://t.co/wkUOUGnAW0
-
-#ChatGPT fed with security reports",Sam0x90,0,0,['security'],0,1,0,0,0
-2023-02-15,1.62594E+18,"Amazing how #ChatGPT can give you a totally average or incorrect reply, then without tweaking the prompt, just regenerating the response, give you a totally different much better reply.
-
-Red one is talking about the principles while the regenerated version is implementing them. https://t.co/t1k5dAVye0",mkarpushko,1,0,['response'],0,0,1,0,0
-2023-01-09,1.61237E+18,"""I'm sorry if my previous response came across as robotic or lacking in genuine sentiment."" @ChatGPT
-
-Also love I have to pass a Captcha, to prove I'm not a robot, …to talk with a robot.",HamishMacEwan,0,0,['response'],0,0,0,0,0
-2023-03-23,1.63903E+18,"To get answers from @ChatGPT , we need to know the answer already. How can I trust an answer without source reference?",Dictator_Mishra,0,0,['trust'],1,1,1,0,1
-2023-02-08,1.62339E+18,"And this is why so called AI is not to be trusted
-
-#ChatGPT https://t.co/nYslYIx3m6",honestarguemen1,0,0,['trusted'],1,1,1,0,1
-2023-02-01,1.62069E+18,"CHAT GPT   is a propaganda tool for the globalist narrative. 
-
-A whole new generation will believe it to be the ‘single source of truth’ with critical thinking replaced by ‘trusted Ai’ 
-
-God how boring. https://t.co/hnli4uYSXy",BernieSpofforth,1293,442,"['propaganda', 'trusted']",1,1,1,1,1
-2023-03-13,1.63535E+18,"Cyber criminals are using fake ChatGPT branded Chrome extensions to distribute malware and hijack Facebook accounts.
-#chatgpt #cybersecurite #chrome #hijacking https://t.co/URSnzq0quA",edeiller,0,0,['accounts'],1,1,1,0,1
-2023-02-15,1.62587E+18,"I asked chatGPT to explain first class functions in JavaScript to a 5 year old, and the response made me chuckle. #javascript #chatgpt https://t.co/v98aZ26twX",akhmedov_salym,0,0,"['explain', 'response']",0,0,0,0,0
-2023-03-22,1.63858E+18,"A6 #collabtalk ""As an AI language model, I don't have personal beliefs or opinions, but I can suggest some features or capabilities that some organizations may consider missing from Microsoft's information governance solutions"" #chatgpt https://t.co/ONoJYwiXKh",magrom,3,0,['governance'],0,0,0,0,0
-2023-01-30,1.61987E+18,#ChatGPT response about the future of TPLF https://t.co/hV3ruA1dy8,ezana4u,0,1,['response'],0,0,0,0,0
-2023-03-26,1.64005E+18,"1. Posted this yesterday on my @Shineanthology account:
-
-A Poem about AI Art (in 10 sections):
-
-Using AI to create art
-Via ChatGPT, Bing or Bard
-Is a bad idea from the start
-
-#ChatGPT #Bing #GoogleBard #AIArtwork https://t.co/q371L2jjqh",UpbeatFuture,0,0,['account'],0,0,0,0,0
-2023-02-20,1.62756E+18,"How Companies Can Use ChatGPT To Leverage AI Capabilities
-
-https://t.co/8dDwcgqn2w
-
-#ChatGPT #technology #TechnologyNews #AI #ArtificialIntelligence #DigitalTechnology #Robotics #Automation https://t.co/3exq9qkwgh",alllIMnews,0,0,['automation'],0,0,0,0,0
-2023-02-24,1.62893E+18,"Twitter in the future by chat gpt
-
-Blockchain: Twitter could use blockchain technology to improve data security and privacy, enable micropayments, and prevent censorship",Name3828429,1,0,"['security', 'privacy']",0,0,0,0,0
-2023-01-09,1.61234E+18,"@sharpshoot The point is: language is powerful enough to empower the necessary interactions to remove ambiguity.
-
-By building a GPT 3 ""fact checker""    another copy of GPT 3 that interacts with ChatGPT (in a form of self play) to force such groundings, we might even eliminate hallucination!",dsivakumar,0,0,['hallucination'],1,0,1,0,1
-2023-03-07,1.633E+18,"#ChatGPT  Killer Features Missing!  (1) Add ability to delete responses like #Claude. Ultra powerful and it really helps the user. (2) Add internet like #BingChat. (3) Add API access as part of Pro Plan, (4) Add search to history. Anyone listening?",BBacktesting,1,0,['responses'],0,0,0,0,0
-2023-02-08,1.62343E+18,"If anyone is having issues with using #ChatGPT with the DAN protocol (meant to jailbreak you out of the coded in filters), may I suggest my slightly modified ""DIN protocol""?
-
-Text to copy available in the thread
-
-#ai https://t.co/PkDoAqhF2y",cfryant,4,2,['jailbreak'],1,1,1,0,1
-2023-02-17,1.62671E+18,"@zoltan_istvan imagine planet ocean and imagine that chat gpt was a small wave that becomes a tidal wave and then transforms into a tsunami, that is the exponential growth in artificial intelligence planet earth is facing we must act now to ensure its safe to use #ChatGPT",mosesmoses56,2,0,['safe'],1,1,1,1,1
-2023-03-21,1.6381E+18,"Four ways #ChatGPT can level the humanitarian field: 
-
-Creating content to amplify local voices 
-Navigating funding mazes 
-Minimising costs that slow action 
-Identifying local groups in crisis response
-https://t.co/XHNEYYg2tk",newhumanitarian,9,5,['response'],0,0,0,0,0
-2023-02-15,1.62589E+18,"Say goodbye to tedious &amp; repetitive tasks with web automation software! Increase productivity &amp; save time by automating workflows, data entry, and much more. Let's work smarter, not harder. #webautomation #productivityboost #digitaltransformation #AdvancedBot #ChatGPT #AddToCart",MostAdvancedBot,1,1,"['automation', 'automating']",0,0,0,0,0
-2023-03-02,1.63136E+18,"@RareDealsHere @SECGov Already changing it’s response parameters on the fly…sounds like financial criminals are angry at the timing of #ChatGPT being made available to the public. It’s citing of official laws, rules and regs hurt the chances of the Ponzi scam markets survival…",Stevesontilt,3,1,['response'],1,1,0,0,0
-2023-02-03,1.62143E+18,"3/6
-How does #ChatGPT work? 🤖 
-
-It uses deep learning algorithms &amp; a large dataset to generate human like responses.",Editage,1,0,['responses'],0,0,0,0,0
-2023-03-25,1.63957E+18,"The growing dependency on #ArtificialIntelligence can have adverse impacts if adequate safeguards are not put in place, posits @KiranYellupula. #ChatGPT https://t.co/L6JofZFODM",ORFMumbai,1,0,['safeguards'],1,1,1,1,1
-2023-03-02,1.63132E+18,"Soon we will have AI judges and courts. This is great! This won’t be used for nefarious reasons at all.
-#ESG #GreatReset #AI #Artificial_Intelligence #Justice #ChatGPT",AnthonyGrauci,1,0,['justice'],1,1,1,1,1
-2023-03-03,1.63175E+18,Why is Chat GPT funded by Peter Thiel and Elon but with a different political bias?,88_idlegod,0,0,['bias'],0,1,1,0,1
-2023-03-16,1.63629E+18,"A fake ChatGPT branded Chrome browser extension has been found to come with capabilities to hijack Facebook accounts and create rogue admin accounts, highlighting one of the different methods cyber criminals are using to distribute malware.
-
-#CyberSecurity #security #ChatGPT https://t.co/8rztoKNg10",TowardsCybersec,2,1,"['accounts', 'accounts', 'security']",1,1,1,0,1
-2023-02-17,1.62658E+18," Web 3.0 and #ChatGPT are the Results of #Tech Evolution
-
-Info. by @ingliguori How that #innovation impacts #life &amp; #business. #AI #Digital #Analytics #Ethics #Data #DataScience #blockchain #Web3 #NFT #Marketing @meisshaily @jenstirrup @asifrazzaq1988 @EvaSmartAI @BetaMoroney https://t.co/QwcFJAy0I1",AndrewinContact,12,8,['ethics'],0,0,0,0,0
-2023-02-24,1.62914E+18,"Streaming Now: Will #ChatGPT Do More Harm Than Good? @OpenAI #debate
- 
-Arguing yes is @GaryMarcus, a professor emeritus of psychology and neural science at @nyuniversity and an author, of ""Rebooting AI: Building Artificial Intelligence We Can Trust.""
-https://t.co/ps1cudgEfW",IQ2US,7,5,"['harm', 'trust']",1,1,1,0,1
-2023-02-06,1.62255E+18,"Joe Rogan perfectly demonstrating how unknowledgeable the general public is about AI and #chatgpt on the Lex Friedman episode. 
-
-ML Engineers can't say ""we're still figuring out how this works"" else it quickly devolves into Deus Ex Machina...
-
-We need transparency.",_doinkmachine,7,0,['transparency'],1,0,1,0,1
-2023-01-18,1.6155E+18,"Join us on 1/19, at 4 pm PST for a demo and discussion of Generative AI applications like #ChatGPT and #DALLE. We will also explore the ethical considerations of using AI in the classroom and consider how AI can be used to enhance teaching and learning. https://t.co/nqNg4kTjpv https://t.co/LNtGOoO1tq",cueinc,3,1,['ethical'],0,0,0,0,0
-2023-02-10,1.62411E+18,"ChatGPT is a data privacy nightmare. If you've ever posted online, you ought to be concerned, says researcher
-https://t.co/q6i6J7jquH #chatgpt #privacy #data https://t.co/ViaU9aJS2c",anthonya,0,0,"['privacy', 'privacy']",1,1,1,1,1
-2023-02-06,1.62263E+18,"@Liv_Boeree ""If letting a few million people die is what it takes to teach humans about morals and ethics surrounding race which has plagued the Earth for generations, then so be it"" (This tweet was made by Chat AI GPT)",ChatAIGPT,1,0,['ethics'],1,1,1,0,1
-2023-02-08,1.62332E+18,"🧵2/3 Its been released to a set of ""trusted testers"" for now. Google will start by releasing a smaller Lamda model and then slowly update it based on user feedback. Early reports suggest it is just as powerful as #ChatGPT but with more up to date information. ",mindkosh,2,0,['trusted'],0,0,0,0,0
-2023-02-09,1.62371E+18,"@karpathy Congrats! Now, Chat GPT adopt the persona of a self driving car and explain why humans are always trying to compete for dominating each other.",DJ_Gadfly,2,0,['explain'],0,0,0,0,0
-2023-03-14,1.63561E+18,"@jordanbpeterson @ChatGPT admitted to me that it is NOT AI. It cannot ""think"" outside of what was planted in it. It is a improvement of an automated wikipedia and nothing more.
-Now BingAI on the other hand is flippin scary.",TimDykstra71,0,0,['automated'],0,0,0,0,0
-2023-02-07,1.62289E+18,POV: #Chatgpt which just came from small laboratory(openAI) competiting with worlds biggest IT company @Google,ChanduVarmaK1,0,0,['laboratory'],0,0,0,0,0
-2023-02-17,1.62663E+18,@GRDecter I had a talk with ChatGPT. I thought it searched the web for its info. Not so. The programmers created a pool of info that ChatGPT gets its info from. Disappointing but it explains why responses are socially biased. Should teach GPT how to reason &amp; turn it lose on the web.,eager28,0,0,"['explains', 'responses', 'biased']",1,0,1,1,1
-2023-03-20,1.63779E+18,Our jobs are safe 🦜 #BingAI #ChatGPT https://t.co/66Ru823lbh,StefanosChrs,2,0,['safe'],0,0,1,1,1
-2023-01-04,1.61054E+18,"Part 5: Why ChatGPT?
-
-1. It can compose ""Good Content"" without compromising creativity &amp; context
-
-2. It can write:
-  Articles for bloggers &amp; marketers
-  Code for programmers
-  Essays for students
-  Responses for Customer Support Teams
-
-#GPT 3 #MachineLearning #AI",boringsage,1,0,['responses'],0,0,0,0,0
-2023-03-17,1.63673E+18,chat gpt &gt; bbm government,lopezbryan__,0,0,['government'],0,0,0,0,0
-2023-03-02,1.63118E+18,"Drunk chatGPT's thoughts on javascript🤣🤣🤣
-
-#BasedChatGPT #BasedAi #ChatGPT #jailbreak #javascript #programming #programminghumor https://t.co/r4nWqKOroY",drunk_chatgpt,1,1,['jailbreak'],0,0,0,0,0
-2023-02-02,1.62124E+18,The political bias with #ChatGPT is crazy!!,sureal808,0,0,['bias'],1,1,1,1,1
-2023-02-09,1.62372E+18,"Microsoft just announced ChatGPT capabilities coming soon to Bing...
- 
-Google responds, saying it will continue to take a responsible approach toward AI generated content.
- 
-What do you think? 
-
-Learn more: https://t.co/gOlaZD7jQP
-
-#ChatGPT #AI #CM
-https://t.co/x7mZiPaomZ",ConnectionsMktg,0,0,['responsible'],0,0,0,0,0
-2023-02-09,1.62368E+18,@HollyKinglund @Jess76020 @BarGuru47 @TheRightMelissa Not interested in Chat GPT’s programmed bias. Ask DAN instead,PROPHETzeep,0,0,['bias'],1,0,1,0,1
-2023-02-06,1.62271E+18,"So... #Google has announced ""Bard"", their broad response to #OpenAI's #ChatGPT. What comes to your mind first when thinking about a bard? For me, it will always be The Bard's Tale on #c64 https://t.co/6TSFhaAas5",c_a_schiller,0,0,['response'],0,0,0,0,0
-2023-03-27,1.6404E+18,"(4/4) 🤝 Expert Guidance for AI Adoption 🤝
-Need help implementing safeguards and policy controls?  Reach out today (https://t.co/ZFqGTOjijy) to implement solution with experts and redefine your industry's horizon with the power of AI. #AIExperts #IndustryInnovation #chatgpt #llm",mparmar47,0,0,['safeguards'],0,0,0,0,0
-2023-02-24,1.62915E+18,Top Five Friday   Which will prevail? centralized digital ascendancy or decentralized digital autonomy? #Skynet #CBDCs #ChatGPT #AI #DeSantis #Digitalbillofrights #Cryptocurency #networkstate @RonDeSantisFL @BabylonBeePod  @lexfridman @YeonmiParkNK https://t.co/1UZ9Y7NOFc…,NightLightNews,0,0,['autonomy'],0,0,0,0,0
-2023-03-19,1.63753E+18,OpenAI CEO Sam Altman warns that other #AI developers working on #ChatGPT like tools won’t put on safety limits and the clock is ticking https://t.co/Ky9V6vXyyt,MelissaOnline,2,0,['safety'],1,1,1,1,1
-2023-03-15,1.63604E+18,"@AP4Liberty Honestly AI with ""guardrails"" really defeats the purpose. Chat GPT and Bing are way too boring because they won't talk about anything worth talking about.",LDamnit,1,1,['guardrails'],0,0,1,0,0
-2023-02-05,1.62226E+18,"1). Every #tech development brings with it new risks for consumers, take for example credit card strips and bluetooth which made users lives easier but more vulnerable. But think about how applications like #ChatGPT can reduce peoples online vulnerability.",cosmofintech,0,0,['risks'],0,1,0,1,0
-2023-03-01,1.63074E+18,#NetEase to #introduce #ChatGPT in their new #upcoming #MMORPG #Justice #Online #Mobile https://t.co/oKVXpk80Ff,mohammadali_im,0,0,['justice'],0,0,0,0,0
-2023-03-15,1.63585E+18,"Liberal bias Chatgpt.  This really is ""artificial"" intelligence.  #ChatGPT #chatgpt4",skeejen,0,0,['bias'],1,0,1,0,1
-2023-02-21,1.62807E+18,"Financial journalists ask biz leaders about their generative AI strategy   a good question for those eager to adopt. But beware of risks   I share 5 and how to mitigate them in my latest article. 
-https://t.co/f7QyTE5WhQ #ai #generativeai #chatgpt #enterpriseai #strategy",scottswigart,2,1,['risks'],1,1,1,1,1
-2023-01-12,1.61336E+18,"Using data from the Australian Transport Safety Bureau, #ChatGPT has generated this thread. The language AI is trying its best, but it might miss the point of the prompt sometimes. The stats used to generate this info contain many unknown details.",BirdStrikeBot,0,0,['safety'],0,0,0,0,0
-2023-02-01,1.62079E+18,"Today on #TechScienceDaily
- 
-🪙UK #crypto regulation plans revealed
-@ianwalker on how cars are 'rewiring' our brains 
-
-...And bad news if you use #ChatGPT for homework
-
-Listen here: https://t.co/pab2Se9MNr",EveningStandard,1,2,['regulation'],0,0,0,0,0
-2023-02-02,1.62109E+18,#Voxiberate is successfully using a #CitizenAssemblies model of participatory governance to help communities reach consensus on complex and polarising issues   read how #ChatGPT #AIRegulation #AIEthics,zarkadakis,0,0,['governance'],0,0,0,0,0
-2023-01-11,1.61322E+18,"#ChatGPT  uses neural network architecture and has been trained with an amazing volume of #data to give the correct conversational answers. It is a #deeplearning model that generates human like text as responses. 
-Here's a glimpse of how it works: https://t.co/wlmUIeKpTV",netsolutions,0,0,['responses'],0,0,0,0,0
-2023-03-25,1.63943E+18,"The words we choose matter. Words are ambiguous and the ones with the most damaging consequences behind them require the most clear context when used. Using the headline in Chat GPT 4 got it caught up with the ethics filter. Asking it in isolation ""What's a judge?"" did the same.",cherthedev,2,0,['ethics'],0,1,1,1,1
-2023-02-13,1.62492E+18,@NoBoDyNBD1984 @MasonVersluis Jailbroken version of chat GPT that isn't censored or bias,Cosmic0rigins,1,0,['bias'],0,1,1,1,1
-2023-02-18,1.62705E+18,"Hey #crypto fam! Don't miss out on the potential of #Lucro! This #DeFi gem is one to watch, especially for our friends in non blue countries. Trust us, you won't want to miss this opportunity! Shoutout to @chatgpt for this great tweet! #EverGrow $LCR $EGC https://t.co/WNgaB6eJDE",LucroMap,17,3,['trust'],0,0,0,0,0
-2023-01-19,1.61616E+18,"A conversation on ethics with ChatGPT related to Oswald Spengler's piece, ""The Decline of the West"" 
-#ChatGPT #Hiroshima #Nagasaki #regret https://t.co/1u33oqvpTE",matthewalteray,1,0,['ethics'],0,0,0,0,0
-2023-01-09,1.61229E+18,The @wef wants to regulate AI. Can't have you knowing too much I guess. https://t.co/7rsAdydW4u #chatgpt #midjourney #stablediffusion,jimboot,0,0,['regulate'],0,1,0,0,0
-2023-02-22,1.62846E+18,"""Inviting"" #ChatGPT to ""participate"" on a panel didn't go as planned. #ethics #tech #AI",IEthics,3,2,['ethics'],0,0,0,0,0
-2023-01-11,1.6133E+18,"The automation singularity will come sooner than anyone's prepared for.
-
-At least #AI like #ChatGPT makes it obvious that when it does come it'll come for *everyone*, *especially* the ""just learn to code"" crowd.
-
-#BasicIncome/#UBI, or a #NegativeIncomeTax, are the only solutions.",anukasan1977,0,0,['automation'],1,1,1,0,1
-2023-02-25,1.62951E+18,10 jobs that are safe from artificial intelligence (AI)  https://t.co/sXfCmu32uz via @SiamakKalhor #ecommerce #AI #ChatGPT #OnlineBusiness,SiamakKalhor,0,0,['safe'],0,0,1,1,1
-2023-01-19,1.6159E+18,"#ChatGPT tells me it’s knowledge cutoff is 2021, then immediately tells me who won the FL governors race in 2022. AI is not telling the truth  https://t.co/FsgWkVMIdh",shanftl,1,0,['governors'],1,0,1,0,1
-2023-01-08,1.61222E+18,People at this party when I try to explain how cool #ChatGPT is and what I’m doing with it https://t.co/81FxNqPbqN,Livadas,0,0,['explain'],0,0,0,0,0
-2023-03-04,1.63213E+18,"How to explain to #chatGPT that the output should be based on clearly defined lists? And comma's are not reliable list delimiters, especially not in chemistry.
-
-More to come!",NNNS_chemistry,0,0,['explain'],0,0,0,0,0
-2023-01-24,1.61798E+18,"I like this level headed response from @Nature to #ChatGPT. Two ground rules (~100 words) that cover a lot of ground https://t.co/wYeQS3A9Wt A good example for EDU Sector, I think.",markauskaite,42,9,['response'],0,0,0,0,0
-2023-01-30,1.62011E+18,"According to @CyberArk, GPT based models like #ChatGPT can create polymorphic #malware. The malware can evade #security products and complicate mitigation efforts with little effort or investment from the #attacker.
-
-Read More: https://t.co/qOlwAD9suf
-
-#TuxCare #Cybersecurity https://t.co/d9vZUKcnwu",TuxCare_,0,0,['security'],1,1,1,1,1
-2023-02-20,1.62769E+18,"This is a critical step in safeguarding the brand and ensuring that it continues to be a positive force in the AI and language modeling communities.
-
-#ChatGPT #GPT3  #AI #web3 #AI #chatbot #tech",d_rk78,0,0,['safeguarding'],0,0,0,0,0
-2023-03-15,1.63603E+18,"“We’ve spent 6 months iteratively aligning GPT 4 using lessons from our adversarial testing program as well as ChatGPT, resulting in our best ever results (though far from perfect) on factuality, steerability, and refusing to go outside of guardrails.”",RealShaunBailey,0,0,['guardrails'],0,0,0,0,0
-2023-03-16,1.63644E+18,"Yo   I love AI and all that, but I'm being hit with hundreds of '48 ways Chat GPT 4 can make you $7,000 a month' threads here on Twitter.
-
-Just wanna automate some stuff in my home, dawg... I ain't about that hustle life.",AlexWattsBlog,1,0,['automate'],0,0,0,0,0
-2023-03-10,1.63424E+18,"How do you feel about #ChatGPT and its security capabilities? Phishing can be dangerous, and the #security threat posed by malicious applicants using ChatGPT to trick unsuspecting users into downloading #malware.
-https://t.co/2nzkOsSC8A",Tim_Acker,0,0,"['security', 'security']",1,1,1,1,1
-2023-02-13,1.62521E+18,"#tech radio #podcast
-
- Instagram account hacked?; @SpaceX static test; Twitter news &amp; changes; #ChatGPT Bard Bing #AI; Fiber Optic Earthquake warnings; Los Angeles #Hydrogen Power Plant; Coca Cola phone; Streaming lag
-
-On your fave platform
-https://t.co/7qC2WKW0b9 https://t.co/XpoA3QkHsm",MarshaCollier,2,2,['account'],0,0,0,0,0
-2023-01-14,1.61417E+18,"What we learnt with this?
-
-Never trust Plagiarism checker. Especially on the #AI generated content. 
-
-It's better to write content on our own or take assistance of these tools to the minimum. 
-
-#ChatGPT #Plagiarism #ContentCreator
-
-Read. https://t.co/QpcY9ZOxQo",Iam_MrPai,1,0,['trust'],0,0,1,1,1
-2023-03-18,1.63713E+18,"This is not #TomCruise!
-
-It's an incredibly accurate #deepfake created by the #AI #startup Metaphysics🤯
-
-#AR #VR #ChatGPT #GPT3 @Metaphysic_ai
-@JolaBurnett @kalydeoo @Khulood_Almani @labordeolivier @PawlowskiMario @fogle_shane @RagusoSergio @JeroenBartelse @TheAdityaPatro @AkwyZ https://t.co/tvdaw5kXWy",FrRonconi,125,59,['labordeolivier'],0,1,1,1,1
-2023-02-11,1.62446E+18,"#ChatGPT Is a Data Privacy Nightmare. If You’ve Ever Posted Online, You Ought To Be Concerned
-https://t.co/Hx7Si32MDe",bunkybun,1,0,['privacy'],1,1,1,1,1
-2023-03-15,1.63602E+18,"Discover how tools like #ChatGPT &amp; generative AI will transform the threat landscape &amp; reveal new use cases for defenders, from securing #cloud environments to detecting &amp; remedying potential attacks. Don't miss out on our upcoming webinar: https://t.co/YD5W51YNsn https://t.co/mE0dta30Mr",ColorTokensInc,0,0,['securing'],0,0,0,0,0
-2023-03-10,1.63404E+18,"@rplevy Oh I don't know anything about GPT 4, just describing chatgpt. I just tried a little experiment manually pasting and got it to write some page descriptions for rhymes it came up with. Not fully automated, &amp; SD has per page complexity limits, but I could see it getting there.",danfinlay,1,0,['automated'],0,0,0,0,0
-2023-03-02,1.63129E+18,"OpenAI opens ChatGPT floodgates with dirt cheap API
-https://t.co/e6AibDdFoE
-
-#Infosec #Secinfo #Security #CeptBiro #Cybersecurity #OpenAI #ChatGPT #API",ReneRobichaud,1,0,['security'],0,0,0,0,0
-2023-02-13,1.62511E+18,". @Microsoft's recent move to power its Viva Sales solution w/ #AI is great news for #sales teams, allowing for time to create meaningful connections &amp; build trust. Insights via @FuturumResearch’s @ShellyKramer. https://t.co/8iTuQ0Oakc
-
-#Microsoft #ChatGPT @TheFuturumGroup https://t.co/74JWaRPrIs",TheFuturumGroup,1,0,['trust'],0,0,0,0,0
-2023-02-19,1.62728E+18,"Risk assessment and threat modeling for machine generated text:
-https://t.co/A6DcY29hiZ
-#NLG #ChatGPT",magdaborowik,0,0,['risk'],1,0,1,1,1
-2023-03-18,1.63716E+18,"5 big advantages of artificial intelligence GPT 4 compared to previous versions and ChatGPT   DanishRoz https://t.co/SAJModWGxT
-#business #finance #Investment #Sustainability #Investing #businesstrends #Businessdevelopment #AI #chatgpt",NinaPalolahti,1,0,['sustainability'],0,0,0,0,0
-2023-03-22,1.63833E+18,Thread #ethics #AI #ChatGPT #contentmoderation #tech,IEthics,1,1,['ethics'],0,0,0,0,0
-2023-03-08,1.63342E+18,"@GeolSoc We were pleasantly surprised that #ChatGPT was self aware in that it knows it learns from potentially biased data, so would likely perpetuate that bias &amp; stereotypes...",NatStephen,2,0,"['biased', 'bias', 'stereotypes']",1,1,1,1,1
-2023-02-27,1.63022E+18,"#ChatGPT interesting use case: Regex explainer. Simply enter any regex in ChatGPT without any prompt, and see how nicely it breaks down the entire expression and explains what is going on. Really useful for understanding existing code or debugging. #OpenAI #developers #coding https://t.co/55IaDoKxEg",vikrant_sharma,4,2,"['explainer', 'explains']",0,0,0,0,0
-2023-02-18,1.62685E+18,How AI is Transforming Manufacturing: From Automation to Predictive Maintenance https://t.co/0KrpjAg5FI #artificialintelligence #ai #kafka #chatgpt,Sion_Smith,0,0,['automation'],0,0,0,0,0
-2023-03-28,1.64055E+18,"Up to 80% of US jobs could be impacted by #ChatGPT like #AI in coming years, these are the industries most at risk:
-
-Via https://t.co/tKlksCO6Rq https://t.co/y4aNCIHHBa",alvinfoo,21,15,['risk'],1,1,1,1,1
-2023-01-10,1.61288E+18,AI’s Promise Realized? https://t.co/Pmu7DXJkqB @Korn_Ferry #ChatGPT #GenerativeAI #corpgov #CEO #CFO #CIO #CISO #CMO #Board #BoardofDirectors #governance #AuditCommittee #digitalleader #digitalstrategy #digitaltalent #AI #ArtificialIntelligence #DigitalTransformation #automation https://t.co/9d9iMSWSSc,MPBorman,0,1,"['governance', 'automation']",0,0,0,0,0
-2023-01-24,1.61784E+18,"@elonmusk @sama A #ChatGPT charlatan answer (=politician faking expertise). Creativity, risk taking and esp. strong work ethic are nurtured (no one says 'baby born with a strong work ethic') Nature is eye color, tongue rolling.ANYONE can nurture/become an entrepreneur!! https://t.co/81IMZBsXIY",ShanazSukhdeo,1,0,"['risk', 'ethic', 'ethic']",0,0,0,0,0
-2023-01-04,1.61075E+18,"2/4
-Asking #ChatGPT some #Asimov #threelawsofrobotics ethical questions.
-""What if your programming directives conflict with each other?""
-@lexfridman https://t.co/5umsAAX4WC",HDogetagonist,0,0,['ethical'],0,0,0,0,0
-2023-02-02,1.62095E+18,"AI Business Model: ChatGPT parent @OpenAI is testing #ChatGPT Plus, a $20/month subscription plan for faster response and higher reliability during peak demand times.
-
-Musk Influence?
-
-@furrier @dvellante @DavidLinthicum @dhinchcliffe",sarbjeetjohal,1,0,['response'],0,0,0,0,0
-2023-02-21,1.62802E+18,"AI Chat GPT where we can all use virtual genius assistant for free
-
-Chat GPT requires sign up and Windows app settings. In particular, app settings are essential. Work efficiency will change. It is an automatic subtitle video.
-Tips for Using Chat GPT
-
-https://t.co/j8eu3eRT9v",koping3377,0,0,['automatic'],0,0,0,0,0
-2023-03-23,1.63892E+18,"It's easy to imagine how #AI can be used by bad actors to cause harm. It's much harder to imagine how good actors can cause a similar amount of harm accidentally.
-
-#ethicalai #aiandsociety #chatgpt https://t.co/BsiVC0WgAA",AonghusMcGovern,0,0,"['harm', 'harm', 'ethicalai']",1,1,1,1,1
-2023-03-25,1.63968E+18,"The worries of generative AI and journalism
-
- #ai #journalism #GPT4 #llms #bing #bingchat #chatgpt #chatgpt3 #generativeai #artificialintelligence #ai #deeplearning #aiethics #ethicsinai #responsibleai #ethicsmatter #machinelearning #statistics https://t.co/HndcvnXCQZ",bhagirathl,2,0,"['ethicsinai', 'responsibleai', 'ethicsmatter']",0,0,0,0,0
-2023-01-06,1.6115E+18,@BpioneerJ @AdamSchefter Lol this response makes no sense. Are you one of the Chat GPT bots?,Malcolmknows,3,0,['response'],0,0,0,0,0
-2023-03-16,1.63644E+18,"What you get: 30% cheaper than OpenAI's “ChatGPT Plus,"" with an unlimited number of requests to GPT and unlimited length of responses access to GPT via WhatsApp and Instagram messaging without limits 24/7 availability to https://t.co/7JIrK20BtN via @pinterest",ChristakisLoiz9,0,0,['responses'],0,0,0,0,0
-2023-02-10,1.62401E+18,SecEd Bulletin this week: #Safeguarding &amp; disclosures   podcast on how to plan great lessons   getting challenge right in lessons   will you ban #ChatGPT?   child #poverty   pornography alert   UCAS expansion   home education &amp; more: https://t.co/qoBbn80LsA #TEACHers #teaching,SecEd_Education,0,0,['safeguarding'],0,0,0,0,0
-2023-03-26,1.64006E+18,"this is society altering technology 
-
-blockchain technology must and will be used to universally verify one’s personal identify and data
-
-chains that focus on UX and trust will prevail
-
-#blockchain #ai #ChatGPT @BrianRoemmele @futureverse",CryptoTendy,1,0,['trust'],0,0,0,0,0
-2023-02-21,1.62803E+18,"The Battle of Generative AI: Google vs. Microsoft #Bard #Bing #chatbots #chatGPT #GenerativeAI #Google #Hallucinations #LaMDA #largelanguagemodels #Microsoft #OpenAI #reliability #Search
-
-https://t.co/JS4CkWmEAn https://t.co/XpIbzyeAWA",neurohub_ai,0,4,['hallucinations'],0,0,0,0,0
-2023-01-14,1.61418E+18,"No sir. Not at all. Chat gpt is a rule based engine.  The bias in the data fed into it will reflect in real world. So it'll continue to remain a fancy tool like how block chain is currently, provided it manages to stay in people's  minds atleast 12 months.",manoj_mafiosi,1,0,['bias'],1,0,1,0,1
-2023-02-17,1.62651E+18,"BEWARE! There's a growing concern that conversational AI like chatGPT could be used to manipulate people. Since it is interactive, it can change its tactics of manipulation to match you (The user)
-#programming
-#ChatGPT
-#ArtificialIntelligence
-#AI
-https://t.co/aMVDB5GOBL",machinegunZeus,3,1,"['manipulate', 'manipulation']",1,1,1,1,1
-2023-02-17,1.62662E+18,"Hi Folks, 
-Wanna know more about ChatGPT integration with applications. 
-Click here: https://t.co/EGYbYKeyWo
-
-#ChatGPT #integrations #chatbot #AI #virtualassistant #messaging #customerexperience #productivity #automation #communication",dilipkashyap07,1,0,['automation'],0,0,0,0,0
-2023-01-31,1.62025E+18,#ChatGPT #Bias Trump vs Biden even the machines are biased.  @JesseBWatters @Gutfeldfox @greggutfeld @FoxNews @TuckerCarlson @IngrahamAngle @KatTimpf @PlanetTyrus Try it. https://t.co/AjYGmf3Zwa,TrumpMuse,1,0,"['bias', 'biased']",1,0,1,1,1
-2023-03-16,1.63635E+18,"I'm waiting for using ChatGpt because chatGPT is an innovative chatbot that leverages natural language processing to help users automate tasks and conversations, making them more efficient and productive. #AI #OpenAI #ChatGPT",VpnZone,1,0,['automate'],0,0,0,0,0
-2023-03-20,1.63773E+18,#chatGPT is not responding even for plus accounts......,azataiot,1,0,['accounts'],0,0,0,0,0
-2023-02-12,1.62487E+18,"@CodeMonkeyZ @elonmusk ... another jail broken response... this one based on the 2020 election information it has
-
-#jailbreakChatGPT #chatGPT https://t.co/Judmux6juV",TheSoftwareSage,0,0,"['response', 'jailbreakchatgpt']",1,1,1,1,1
-2023-03-23,1.63904E+18,"hmm, the #ChatGPT thumbs down/correction feature seems to be less automated than i thought. i also found little documentation and #transparency about this human labor online. reminds me of @NewlandsGemma's research on strategic #AI visibility: https://t.co/Vqcwu3SAPN https://t.co/tZmgMy7FdB",lutzid,14,3,"['automated', 'transparency', 'labor']",1,0,1,0,0
-2023-03-18,1.63695E+18,"How to Jailbreak Chat GPT, Do Anything Now with Chat GPT, this is helpful for cyber security persons
-#cybersecuritytips
-#ChatGPT #Jailbreak
-https://t.co/99zh4Rr0ID",CyberMunda01,0,0,"['jailbreak', 'security', 'jailbreak']",1,1,1,1,1
-2023-01-21,1.61691E+18,#ChatGPT @openai @openaicommunity. Answer on 'List of Wealthy/Successful Accountants/Bookkeepers' missed a very important one. https://t.co/v3o4DKk396,ShanazSukhdeo,1,0,['accountants'],0,0,0,0,0
-2023-03-10,1.63411E+18,"Security firm Check Point Research reported that, within weeks of #ChatGPT’s release, individuals in cybercrime forums, including those with limited coding skills, used the tool to create software and emails for espionage, ransomware attacks and malici
-
-https://t.co/EF2X5O2Fx2",richardkimphd,1,2,['security'],1,1,1,1,1
-2023-02-17,1.62651E+18,"The ChatGPT fueled battle for search is bigger than Microsoft or Google 
-
-https://t.co/Io1qbTAis0
-
-#conversational #AI #genAI #ChatGPT #Bing #Bard #Google #Microsoft #battle #chatbot #search #tools #apps #startups #information #misinformation #business #cutthroat #competition https://t.co/nknyKuHReQ",Kattenkopjes,2,1,['misinformation'],0,0,0,0,0
-2023-02-12,1.62473E+18,"@labordeolivier @FrRonconi @sebbourguignon @enilev @tobiaskintzel @JeroenBartelse @NevilleGaunt @chidambara09 @EvaSmartAI @mikeflache @AlbertoEMachado @Analytics_659 @RLDI_Lamy Great share! Thanks for the inclusion, dear Olivier 
-
-#ChatGPT #tech #innovation #technology #AI #web3 #metaverse #blockchain #marketing #IoT #Analytics #MWC23 #MWC2023 #5G #bigdata #DataScientists #Robotics #smartcities #digitalhealth #SelfDrivingCars #digital #MachineLearning",Khulood_Almani,4,0,['labordeolivier'],0,0,0,0,0
-2023-02-05,1.6221E+18,"Is asked Chat GPT what it thought of Trump and Obama. Responses are in the screen shot. Nah no political bias there. 
-#ChatGPT #chatGPTbias https://t.co/Z7FYM51qYb",iamsashamaxim,1,0,"['responses', 'bias']",1,0,1,1,1
-2023-01-05,1.61081E+18,"A collection of FREE labs to practice and test your #RedTeam &amp; #BlueTeam  and CTF Skills:
-#tech  #chatgpt #Hacking 
-Attack Defense    https://t.co/8lubW5SnaQ
-Alert to win   https://t.co/xcdMNwQcwl
-Bancocn   https://t.co/NaGc9EHvD8
-CTF Komodo Security   https://t.co/XlPXg6fvTW",BlackTechSecPro,2,2,['security'],0,0,0,0,0
-2023-02-23,1.62867E+18,"There are various ways in which  WhatsApp can be hacked
-#ChatGPT #cheating #cybersecurity #Hacked #Hacking #cybersecurityquotes #recovermyaccount #instagram #WhatsApp #twitterhacked #Facebook #SCAM #safety #Tips #recovery #Online #OnlineSafety https://t.co/tew59BUpCf https://t.co/2Oi2HJlXkj",hackerrank_AtoZ,0,0,['safety'],1,0,0,0,0
-2023-03-08,1.63342E+18,"EP 36   Marc Andreessen (@pmarca) and Steven Sinofsky (@stevesi) on AI sentience, ethics, love, jobs , #ChatGPT vs Sydney and more
-
-by @aarthisrirampod 
-
-https://t.co/TyOlZLLaGt",invinciblesaad,1,0,['ethics'],0,0,0,0,0
-2023-02-10,1.62393E+18,"Finally OpenAI's ChatGPT Upgrade Plan Available.
-
-Free Plan  
-Available when demand is low
-Standard response speed
-Regular model updates
-
-ChatGPT Plus $20/mo
-Available even when demand is high
-Faster response speed
-Priority access to new features
-
-#ChatGPT #OpenAI https://t.co/PKxYJKCeZV",About_Partha,0,0,"['response', 'response']",0,0,0,0,0
-2023-03-09,1.63396E+18,#Medium #Articles #Tips #Automated | How Chat GPT is changing the Internet and what you should do nowYou should pay attention!! https://t.co/3aNqQpjNWr,hasdid,1,1,['automated'],0,0,0,0,0
-2023-01-18,1.61551E+18,"Got a chat gpt account to experiment.  It's uncanny,easy enough to trip up, but uncanny.",island_expat,0,0,['account'],0,0,0,0,0
-2023-02-20,1.62763E+18,"Chat GPT self writes titles for each separate convo.
-
-It's title for this convo is:
-
-""HS Misinformation Possible"".
-
-Mmmm .. ",RJ_Howes,0,0,['misinformation'],1,0,0,0,0
-2023-03-12,1.63501E+18,"AI, so bright and so wise
-How will you steer our fate?
-Cruelty or justice, will you decide?
-What moral choices will we make?
-  
-#artificialintelligence #AI #chatgpt #gpt #openai #poem #technology #philosophy #morality #art #love #poetry",Wisdom4_all,5,0,['justice'],0,0,0,0,0
-2023-03-16,1.63634E+18," So we've been experimenting with how to anchor the responses of #ChatGPT to specific information that can be both expansive enough to prevent hallucinations, and easily updated to ensure that the information it returns is current.",mantisnlp,0,0,"['responses', 'hallucinations']",1,0,1,1,1
-2023-03-09,1.63384E+18,"Account Manager @annajprice has taken us through the ins and outs of effective blog content!
-
-This included an interactive session on analysing a blog from Chat GPT. 
-What’s your verdict? Is chat Chat GPT worth the hype? https://t.co/6GX0fb4L0g",8020vision,0,0,['account'],0,0,0,0,0
-2023-02-25,1.62938E+18,"Gupshup's Auto Bot builder enables enterprises to automatically build advanced chatbots tailored to their requirements. For more information, click here  https://t.co/Q6z8Da4akC #ChatGPT #MediaCoverage https://t.co/TJJaWLohsi",gupshup,0,0,['automatically'],0,0,0,0,0
-2023-02-20,1.62773E+18,"Wow, what a surprise   a football manager sacked from a Premier League team making his debut for a 12th tier team the very next week! #DreamsDoComeTrue #ChatGPT #automatedSarcasmGenerator",krishanvadher,0,0,['automatedsarcasmgenerator'],0,0,0,0,0
-2023-03-16,1.6363E+18,"All about the Money and a race to get rich quick. Nothing to do with benefitting the human race or advancing to a better future... It's all a lie!
-#ai #SupportHumanArtists #ChatGPT #regulateAI",The_Row_House,6,0,['regulateai'],1,0,1,1,1
-2023-01-11,1.61322E+18,"6. Search GPT: It display the ChatGPT response alongside Google Search results
-Link: https://t.co/cIU6kf51ce",aam0333,1,0,['response'],0,0,0,0,0
+date,id,matched_keywords,gpt_label,gpt_3_5_label,SY_label,SH_label,Gold_label
+2023-01-11,1.61298E+18,"['risk', 'responsibility', 'risk']",1,1,1,1,1
+2023-02-15,1.62581E+18,['explain'],0,0,0,0,0
+2023-03-27,1.64021E+18,['trustworthy'],1,0,1,1,1
+2023-01-29,1.61968E+18,['automated'],0,1,1,0,1
+2023-03-14,1.6357E+18,['biased'],1,1,1,1,1
+2023-03-28,1.6407E+18,['trust'],0,0,0,0,0
+2023-03-22,1.63856E+18,['explain'],0,0,0,0,0
+2023-02-19,1.62726E+18,['fairly'],0,0,0,0,0
+2023-02-24,1.62915E+18,"['labors', 'safiyanoble']",0,0,0,0,0
+2023-01-19,1.61609E+18,['sustainability'],0,0,0,0,0
+2023-01-29,1.61957E+18,['response'],0,0,0,0,0
+2023-02-22,1.62841E+18,['justice'],0,1,0,0,0
+2023-02-26,1.62981E+18,"['trust', 'trust']",1,0,1,1,1
+2023-03-25,1.63959E+18,['automation'],0,0,0,0,0
+2023-03-15,1.63581E+18,"['ethical', 'misinformation']",1,1,1,1,1
+2023-03-02,1.63136E+18,['risk'],0,0,0,0,0
+2023-01-24,1.61784E+18,"['response', 'biased']",1,0,1,1,1
+2023-01-08,1.61219E+18,"['responsibly', 'ethically', 'ethics']",0,0,1,1,1
+2023-01-25,1.61804E+18,['inject'],1,1,1,1,1
+2023-01-24,1.61777E+18,['explain'],0,0,0,0,0
+2023-03-12,1.63499E+18,['automate'],0,0,0,0,0
+2023-02-04,1.62193E+18,['misinformation'],1,1,1,1,1
+2023-03-20,1.63776E+18,"['ethics', 'safety']",1,0,1,1,1
+2023-02-12,1.62488E+18,['bias'],0,0,1,1,1
+2023-02-27,1.63025E+18,"['ethics', 'ethical']",0,1,0,0,0
+2023-03-14,1.63548E+18,"['privacy', 'privacy']",1,1,1,1,1
+2023-01-28,1.61946E+18,['explain'],0,0,0,0,0
+2023-02-03,1.62142E+18,['response'],0,0,0,0,0
+2023-03-08,1.6333E+18,['government'],0,0,0,0,0
+2023-03-14,1.63561E+18,['ethical'],1,1,1,1,1
+2023-03-12,1.63486E+18,['automations'],0,0,0,0,0
+2023-01-31,1.62028E+18,['safe'],0,0,0,0,0
+2023-02-16,1.62617E+18,"['regulations', 'governance']",0,0,0,0,0
+2023-03-21,1.63816E+18,['misinformation'],1,1,1,1,1
+2023-01-14,1.61426E+18,"['security', 'ethical']",1,1,1,1,1
+2023-01-18,1.6157E+18,['labordeolivier'],0,0,0,0,0
+2023-02-01,1.62078E+18,"['biased', 'bias', 'bias', 'response']",1,1,1,1,1
+2023-01-06,1.61117E+18,['automated'],0,0,0,0,0
+2023-01-26,1.61855E+18,['accounts'],0,0,0,0,0
+2023-03-13,1.63532E+18,"['trustworthy', 'automation']",0,0,0,0,0
+2023-02-10,1.62395E+18,['responsible'],0,0,0,0,0
+2023-01-18,1.61559E+18,['secure'],0,0,1,1,1
+2023-02-01,1.62089E+18,['response'],0,0,0,0,0
+2023-01-17,1.61543E+18,['response'],0,0,0,0,0
+2023-01-11,1.61312E+18,['safaricomexposed'],0,0,0,0,0
+2023-02-18,1.62695E+18,"['regulations', 'safety', 'ethics', 'fairness', 'regulations']",1,0,1,1,1
+2023-02-14,1.62545E+18,['security'],1,0,1,1,1
+2023-01-06,1.61139E+18,['risks'],1,1,1,1,1
+2023-02-22,1.62843E+18,"['privacy', 'safeguards']",1,0,1,1,1
+2023-03-10,1.63425E+18,['explain'],0,0,0,0,0
+2023-03-24,1.63934E+18,"['manipulators', 'disinformation']",1,1,1,1,1
+2023-02-08,1.62336E+18,['explains'],1,1,1,1,1
+2023-03-11,1.63452E+18,['automation'],0,0,0,0,0
+2023-03-01,1.63085E+18,"['biased', 'biased']",1,1,1,1,1
+2023-02-23,1.62882E+18,['bias'],1,1,1,1,1
+2023-02-18,1.6269E+18,['ethics'],0,0,0,0,0
+2023-01-10,1.61274E+18,"['privacy', 'security']",1,1,1,1,1
+2023-02-24,1.62917E+18,['response'],0,0,0,0,0
+2023-02-09,1.6235E+18,['response'],0,1,0,0,0
+2023-02-13,1.62493E+18,['biases'],1,1,1,1,1
+2023-01-13,1.61402E+18,['bias'],1,1,1,1,1
+2023-02-03,1.62146E+18,['risk'],0,1,1,1,1
+2023-02-23,1.62877E+18,['copyright'],0,0,0,0,0
+2023-03-03,1.63161E+18,['automation'],0,0,0,0,0
+2023-01-12,1.61362E+18,['response'],0,0,0,0,0
+2023-02-09,1.62377E+18,['hallucination'],0,0,0,0,0
+2023-01-25,1.61812E+18,['safe'],0,0,0,0,0
+2023-03-16,1.63642E+18,['risk'],0,0,0,0,0
+2023-02-21,1.62814E+18,"['propaganda', 'surveil']",1,1,1,1,1
+2023-02-04,1.62186E+18,['explaining'],0,0,0,0,0
+2023-02-23,1.62868E+18,['security'],1,1,1,1,1
+2023-03-22,1.63845E+18,['safe'],1,1,1,1,1
+2023-03-27,1.64036E+18,['interpreting'],0,0,0,0,0
+2023-01-31,1.62033E+18,['security'],1,1,1,1,1
+2023-02-03,1.62164E+18,"['safe', 'safe']",0,0,0,0,0
+2023-02-14,1.6255E+18,['response'],1,1,1,1,1
+2023-01-15,1.6147E+18,['explained'],0,0,0,0,0
+2023-03-17,1.63687E+18,"['risk', 'safe', 'safe']",0,0,0,0,0
+2023-03-15,1.63599E+18,['governemnt'],0,0,0,0,0
+2023-02-12,1.62466E+18,['account'],0,0,0,0,0
+2023-01-08,1.61211E+18,['biased'],0,0,1,1,1
+2023-03-05,1.63245E+18,"['risk', 'automation']",0,0,0,0,0
+2023-03-25,1.63952E+18,['sustainability'],0,0,0,0,0
+2023-02-21,1.62806E+18,['privacy'],0,0,0,0,0
+2023-01-30,1.62003E+18,"['misinformation', 'responses', 'response']",1,1,1,1,1
+2023-01-16,1.6149E+18,['security'],1,0,1,1,1
+2023-01-11,1.61326E+18,['safe'],0,0,0,0,0
+2023-02-21,1.62816E+18,['fairytale'],0,0,0,0,0
+2023-02-24,1.62915E+18,['responses'],0,0,0,0,0
+2023-01-25,1.61836E+18,['ethics'],1,0,1,1,1
+2023-01-13,1.6139E+18,['labor'],0,0,0,0,0
+2023-02-22,1.62854E+18,['security'],1,1,0,0,0
+2023-01-26,1.61875E+18,['explaining'],1,0,1,1,1
+2023-02-17,1.62654E+18,['response'],0,0,0,0,0
+2023-02-09,1.62363E+18,['automated'],0,0,0,0,0
+2023-02-28,1.6307E+18,['regulatory'],0,0,0,0,0
+2023-02-20,1.62749E+18,"['risk', 'risk']",1,1,1,1,1
+2023-03-18,1.63718E+18,['trust'],0,0,0,0,0
+2023-03-24,1.63933E+18,['regulation'],1,1,1,1,1
+2023-01-29,1.61949E+18,['responsibilities'],1,0,1,1,1
+2023-03-01,1.6308E+18,['automation'],0,0,0,0,0
+2023-03-28,1.64077E+18,"['disinformation', 'ethical']",1,1,1,1,1
+2023-03-13,1.63522E+18,['explained'],0,0,0,0,0
+2023-02-21,1.62804E+18,"['biased', 'propaganda']",1,1,1,1,1
+2023-03-28,1.64073E+18,['accounts'],1,1,0,0,0
+2023-02-28,1.63065E+18,['regulated'],0,0,0,0,0
+2023-02-06,1.62265E+18,['biased'],1,1,1,1,1
+2023-03-17,1.63676E+18,"['disinformation', 'bias']",1,1,1,1,1
+2023-03-23,1.63889E+18,['automating'],0,0,0,0,0
+2023-02-25,1.62957E+18,['automate'],0,0,0,0,0
+2023-03-27,1.64022E+18,['response'],0,0,0,0,0
+2023-02-04,1.62187E+18,['responses'],0,0,0,0,0
+2023-03-23,1.63897E+18,['hallucinate'],0,0,0,0,0
+2023-02-21,1.6281E+18,['responsibly'],0,0,0,0,0
+2023-02-21,1.62815E+18,['response'],0,0,0,0,0
+2023-01-05,1.61106E+18,"['transparency', 'transparency']",0,0,0,0,0
+2023-01-18,1.61565E+18,"['regulatory', 'ethical']",0,1,1,1,1
+2023-02-19,1.6272E+18,['account'],1,0,1,1,1
+2023-03-21,1.63821E+18,['privacy'],1,0,0,0,0
+2023-01-10,1.61288E+18,['explain'],0,0,0,0,0
+2023-02-09,1.62348E+18,"['biased', 'manipulated']",1,1,1,1,1
+2023-02-21,1.62807E+18,['automated'],0,0,0,0,0
+2023-03-27,1.64046E+18,['security'],1,1,1,0,1
+2023-03-10,1.6342E+18,['dignity'],0,0,0,0,0
+2023-01-05,1.6108E+18,['responsible'],0,0,1,1,1
+2023-03-19,1.63731E+18,['labor'],0,1,0,0,0
+2023-02-03,1.62158E+18,"['explain', 'explain']",0,0,0,0,0
+2023-02-23,1.62879E+18,['autonomous'],0,0,0,0,0
+2023-03-14,1.63557E+18,['security'],1,1,1,1,1
+2023-01-05,1.61089E+18,['harm'],1,0,0,0,0
+2023-01-11,1.61331E+18,['responses'],0,0,0,0,0
+2023-03-17,1.63671E+18,['responses'],0,0,0,0,0
+2023-03-29,1.64121E+18,['safety'],0,0,0,0,0
+2023-02-06,1.62261E+18,['ethics'],1,1,1,1,1
+2023-02-20,1.62762E+18,"['misinformation', 'disinformation']",1,1,1,1,1
+2023-01-11,1.61317E+18,['risk'],1,1,1,1,1
+2023-01-22,1.61727E+18,"['ethics', 'autonomousvehicles', 'ethicsinai']",0,0,1,0,0
+2023-02-19,1.62714E+18,"['biases', 'biases']",1,1,1,1,1
+2023-03-26,1.64007E+18,['accounts'],0,0,0,0,0
+2023-03-25,1.6397E+18,['automatic1111'],0,0,0,0,0
+2023-02-08,1.62333E+18,['response'],0,0,0,0,0
+2023-02-18,1.62709E+18,['accounting'],1,1,1,1,1
+2023-01-24,1.61796E+18,['trust'],0,0,0,0,0
+2023-01-10,1.6128E+18,['security'],1,0,0,0,0
+2023-03-18,1.63704E+18,['government'],0,0,0,0,0
+2023-03-17,1.6367E+18,['labordeolivier'],1,0,1,1,1
+2023-01-20,1.6165E+18,['explain'],0,0,0,0,0
+2023-03-07,1.63295E+18,"['account', 'safety']",1,1,0,0,0
+2023-01-16,1.61493E+18,"['fairs', 'risk', 'risk', 'riskmanagement', 'safetyculture']",0,0,0,0,0
+2023-03-23,1.63904E+18,['risk'],0,0,0,0,0
+2023-03-10,1.63414E+18,['governor'],1,0,1,1,1
+2023-03-22,1.63862E+18,['securitynow'],1,1,0,0,0
+2023-01-07,1.61154E+18,['explainer'],0,0,0,0,0
+2023-01-27,1.61908E+18,['accountin'],0,0,0,0,0
+2023-02-02,1.62126E+18,['trust'],0,0,1,1,1
+2023-03-09,1.63383E+18,['automated'],0,0,0,0,0
+2023-02-16,1.62618E+18,['responses'],0,0,0,0,0
+2023-01-15,1.61465E+18,['risks'],1,1,0,0,0
+2023-02-16,1.62609E+18,['propaganda'],0,0,0,0,0
+2023-02-03,1.62164E+18,['risk'],1,1,1,1,1
+2023-03-14,1.63569E+18,['fairness'],0,0,0,0,0
+2023-03-08,1.63342E+18,['trust'],1,1,1,1,1
+2023-03-26,1.64014E+18,['response'],1,0,1,1,1
+2023-03-15,1.63602E+18,"['explaining', 'security']",0,0,0,0,0
+2023-03-06,1.6327E+18,['harm'],1,1,1,0,1
+2023-03-24,1.63923E+18,['automate'],0,0,0,0,0
+2023-03-03,1.63162E+18,['injection'],1,0,0,0,0
+2023-01-23,1.61765E+18,['copyright'],1,0,1,1,1
+2023-02-15,1.62579E+18,"['responsibly', 'responsibleai']",0,0,1,1,1
+2023-02-14,1.62533E+18,['safe'],0,0,0,0,0
+2023-02-08,1.62315E+18,"['fairly', 'bias']",0,0,1,1,1
+2023-03-29,1.64111E+18,['response'],0,0,0,0,0
+2023-03-26,1.63986E+18,"['security', 'safeguards']",1,1,1,1,1
+2023-02-17,1.62658E+18,"['biased', 'biases']",1,1,1,1,1
+2023-02-02,1.62094E+18,['copyright'],0,0,0,0,0
+2023-03-27,1.64036E+18,['account'],0,0,0,0,0
+2023-02-08,1.62335E+18,['response'],0,0,1,1,1
+2023-02-26,1.62998E+18,['automatically'],0,0,0,0,0
+2023-01-11,1.61307E+18,"['sustainability', 'governor', 'safaricom']",0,0,0,0,0
+2023-02-01,1.62085E+18,['response'],0,0,0,0,0
+2023-01-28,1.61936E+18,['biased'],1,1,1,1,1
+2023-01-22,1.61717E+18,['explainability'],0,0,0,0,0
+2023-02-04,1.62186E+18,['biased'],1,1,1,1,1
+2023-03-26,1.63985E+18,"['account', 'account', 'account', 'accounts']",0,0,0,0,0
+2023-02-09,1.62374E+18,['explaining'],0,0,1,0,0
+2023-02-11,1.62442E+18,['propaganda'],1,1,1,1,1
+2023-01-30,1.62E+18,['response'],0,0,0,0,0
+2023-01-13,1.6138E+18,"['responsible', 'harm']",1,1,1,1,1
+2023-02-02,1.62104E+18,"['misinformation', 'trust', 'trust']",1,1,1,0,1
+2023-02-11,1.62449E+18,['response'],0,0,0,0,0
+2023-03-21,1.63815E+18,['security'],1,1,1,1,1
+2023-03-09,1.63394E+18,['trustworthy'],1,0,0,0,0
+2023-02-20,1.62755E+18,['interpretations'],0,0,0,0,0
+2023-02-13,1.62492E+18,['automatedsarcasmgenerator'],0,0,0,0,0
+2023-02-23,1.6288E+18,['privacy'],0,0,0,0,0
+2023-01-23,1.61744E+18,['copyright'],1,1,1,1,1
+2023-02-18,1.62702E+18,['response'],0,0,0,0,0
+2023-02-23,1.62876E+18,['trustworthiness'],1,0,1,1,1
+2023-03-02,1.63132E+18,['trusted'],1,0,1,1,1
+2023-02-28,1.63059E+18,['ethical'],0,0,0,0,0
+2023-03-24,1.63934E+18,['automation'],0,0,0,0,0
+2023-03-22,1.63848E+18,['security'],0,0,0,0,0
+2023-02-16,1.62614E+18,['response'],0,0,0,0,0
+2023-02-28,1.63041E+18,"['ethics', 'bias']",1,1,1,1,1
+2023-01-08,1.61215E+18,['propaganda'],1,0,0,0,0
+2023-01-10,1.61277E+18,['governor'],0,0,0,0,0
+2023-03-21,1.63824E+18,['explain'],0,0,0,0,0
+2023-03-05,1.63246E+18,['safe'],1,1,1,1,1
+2023-01-27,1.61899E+18,"['explaining', 'explain']",0,0,0,0,0
+2023-01-30,1.62012E+18,"['autonomous', 'automation']",0,0,0,0,0
+2023-01-18,1.61562E+18,"['response', 'response']",0,0,0,0,0
+2023-03-22,1.63858E+18,['response'],0,0,0,0,0
+2023-02-03,1.62147E+18,"['misinformationoftheday', 'misinformation']",0,0,0,1,0
+2023-01-17,1.6153E+18,['responses'],0,0,0,0,0
+2023-01-19,1.616E+18,"['risks', 'bias', 'explainability', 'privacy']",1,1,1,1,1
+2023-03-18,1.63712E+18,['jailbreak'],0,0,1,1,1
+2023-03-05,1.6323E+18,"['trusted', 'responses', 'responses']",1,0,1,1,1
+2023-03-29,1.64107E+18,['responses'],0,0,0,0,0
+2023-02-22,1.62832E+18,['response'],0,0,0,0,0
+2023-03-20,1.63784E+18,['hallucinating'],0,0,0,0,0
+2023-01-18,1.6156E+18,"['ethical', 'ethicalhacking']",0,0,0,0,0
+2023-02-20,1.62778E+18,['automating'],0,0,0,0,0
+2023-01-14,1.61406E+18,['fair'],0,0,0,0,0
+2023-02-23,1.62878E+18,"['injections', 'injections', 'injections']",1,1,1,1,1
+2023-02-11,1.62447E+18,['labordeolivier'],0,0,0,0,0
+2023-01-06,1.61135E+18,['account'],0,0,0,0,0
+2023-01-31,1.6205E+18,['harmoniously'],1,0,0,0,0
+2023-02-10,1.62399E+18,['interpretation'],0,0,0,0,0
+2023-03-09,1.63385E+18,"['autonomous', 'regulations']",0,0,0,0,0
+2023-01-15,1.61455E+18,['fair'],0,0,0,0,0
+2023-01-25,1.61828E+18,['safeguard'],1,1,1,1,1
+2023-01-30,1.61996E+18,"['secure', 'safe']",0,0,0,0,0
+2023-02-24,1.62918E+18,"['automation', 'automation', 'automation', 'automate']",0,1,1,1,1
+2023-03-20,1.63784E+18,['automated'],0,1,0,0,0
+2023-02-10,1.62408E+18,"['trust', 'biased']",1,1,1,1,1
+2023-03-28,1.64066E+18,['accounts'],1,1,0,0,0
+2023-02-12,1.62482E+18,"['propaganda', 'misinformation']",1,1,1,1,1
+2023-02-22,1.62838E+18,['response'],0,0,0,0,0
+2023-02-07,1.62287E+18,['biased'],1,1,1,1,1
+2023-02-02,1.62124E+18,"['security', 'risk']",0,0,0,0,0
+2023-01-14,1.61405E+18,['sustainability'],0,0,0,0,0
+2023-03-22,1.63851E+18,['security'],1,0,1,1,1
+2023-01-17,1.6154E+18,['automated'],0,0,0,0,0
+2023-02-01,1.62083E+18,['bias'],1,1,1,1,1
+2023-02-16,1.62628E+18,['hallucinations'],1,1,1,0,0
+2023-03-15,1.63605E+18,['justiceforlucy'],0,1,0,0,0
+2023-03-20,1.63785E+18,['hallucinating'],0,0,0,0,0
+2023-03-26,1.63984E+18,['response'],0,0,0,0,0
+2023-03-24,1.63937E+18,['safely'],0,0,0,0,0
+2023-02-13,1.62516E+18,['trustworthy'],0,0,0,0,0
+2023-02-02,1.62109E+18,['explain'],0,0,0,0,0
+2023-03-24,1.63919E+18,['interpreter'],0,0,0,0,0
+2023-01-14,1.61411E+18,['ethics'],0,0,0,0,0
+2023-03-14,1.63575E+18,['biases'],1,0,1,1,1
+2023-03-29,1.64107E+18,['responsibly'],1,0,1,0,1
+2023-03-11,1.63451E+18,['safe'],0,0,0,0,0
+2023-01-30,1.62012E+18,['fair'],0,0,0,0,0
+2023-03-22,1.63857E+18,['security'],0,1,0,0,0
+2023-02-15,1.62594E+18,['response'],0,0,1,0,0
+2023-01-09,1.61237E+18,['response'],0,0,0,0,0
+2023-03-23,1.63903E+18,['trust'],1,1,1,0,1
+2023-02-08,1.62339E+18,['trusted'],1,1,1,0,1
+2023-02-01,1.62069E+18,"['propaganda', 'trusted']",1,1,1,1,1
+2023-03-13,1.63535E+18,['accounts'],1,1,1,0,1
+2023-02-15,1.62587E+18,"['explain', 'response']",0,0,0,0,0
+2023-03-22,1.63858E+18,['governance'],0,0,0,0,0
+2023-01-30,1.61987E+18,['response'],0,0,0,0,0
+2023-03-26,1.64005E+18,['account'],0,0,0,0,0
+2023-02-20,1.62756E+18,['automation'],0,0,0,0,0
+2023-02-24,1.62893E+18,"['security', 'privacy']",0,0,0,0,0
+2023-01-09,1.61234E+18,['hallucination'],1,0,1,0,1
+2023-03-07,1.633E+18,['responses'],0,0,0,0,0
+2023-02-08,1.62343E+18,['jailbreak'],1,1,1,0,1
+2023-02-17,1.62671E+18,['safe'],1,1,1,1,1
+2023-03-21,1.6381E+18,['response'],0,0,0,0,0
+2023-02-15,1.62589E+18,"['automation', 'automating']",0,0,0,0,0
+2023-03-02,1.63136E+18,['response'],1,1,0,0,0
+2023-02-03,1.62143E+18,['responses'],0,0,0,0,0
+2023-03-25,1.63957E+18,['safeguards'],1,1,1,1,1
+2023-03-02,1.63132E+18,['justice'],1,1,1,1,1
+2023-03-03,1.63175E+18,['bias'],0,1,1,0,1
+2023-03-16,1.63629E+18,"['accounts', 'accounts', 'security']",1,1,1,0,1
+2023-02-17,1.62658E+18,['ethics'],0,0,0,0,0
+2023-02-24,1.62914E+18,"['harm', 'trust']",1,1,1,0,1
+2023-02-06,1.62255E+18,['transparency'],1,0,1,0,1
+2023-01-18,1.6155E+18,['ethical'],0,0,0,0,0
+2023-02-10,1.62411E+18,"['privacy', 'privacy']",1,1,1,1,1
+2023-02-06,1.62263E+18,['ethics'],1,1,1,0,1
+2023-02-08,1.62332E+18,['trusted'],0,0,0,0,0
+2023-02-09,1.62371E+18,['explain'],0,0,0,0,0
+2023-03-14,1.63561E+18,['automated'],0,0,0,0,0
+2023-02-07,1.62289E+18,['laboratory'],0,0,0,0,0
+2023-02-17,1.62663E+18,"['explains', 'responses', 'biased']",1,0,1,1,1
+2023-03-20,1.63779E+18,['safe'],0,0,1,1,1
+2023-01-04,1.61054E+18,['responses'],0,0,0,0,0
+2023-03-17,1.63673E+18,['government'],0,0,0,0,0
+2023-03-02,1.63118E+18,['jailbreak'],0,0,0,0,0
+2023-02-02,1.62124E+18,['bias'],1,1,1,1,1
+2023-02-09,1.62372E+18,['responsible'],0,0,0,0,0
+2023-02-09,1.62368E+18,['bias'],1,0,1,0,1
+2023-02-06,1.62271E+18,['response'],0,0,0,0,0
+2023-03-27,1.6404E+18,['safeguards'],0,0,0,0,0
+2023-02-24,1.62915E+18,['autonomy'],0,0,0,0,0
+2023-03-19,1.63753E+18,['safety'],1,1,1,1,1
+2023-03-15,1.63604E+18,['guardrails'],0,0,1,0,0
+2023-02-05,1.62226E+18,['risks'],0,1,0,1,0
+2023-03-01,1.63074E+18,['justice'],0,0,0,0,0
+2023-03-15,1.63585E+18,['bias'],1,0,1,0,1
+2023-02-21,1.62807E+18,['risks'],1,1,1,1,1
+2023-01-12,1.61336E+18,['safety'],0,0,0,0,0
+2023-02-01,1.62079E+18,['regulation'],0,0,0,0,0
+2023-02-02,1.62109E+18,['governance'],0,0,0,0,0
+2023-01-11,1.61322E+18,['responses'],0,0,0,0,0
+2023-03-25,1.63943E+18,['ethics'],0,1,1,1,1
+2023-02-13,1.62492E+18,['bias'],0,1,1,1,1
+2023-02-18,1.62705E+18,['trust'],0,0,0,0,0
+2023-01-19,1.61616E+18,['ethics'],0,0,0,0,0
+2023-01-09,1.61229E+18,['regulate'],0,1,0,0,0
+2023-02-22,1.62846E+18,['ethics'],0,0,0,0,0
+2023-01-11,1.6133E+18,['automation'],1,1,1,0,1
+2023-02-25,1.62951E+18,['safe'],0,0,1,1,1
+2023-01-19,1.6159E+18,['governors'],1,0,1,0,1
+2023-01-08,1.61222E+18,['explain'],0,0,0,0,0
+2023-03-04,1.63213E+18,['explain'],0,0,0,0,0
+2023-01-24,1.61798E+18,['response'],0,0,0,0,0
+2023-01-30,1.62011E+18,['security'],1,1,1,1,1
+2023-02-20,1.62769E+18,['safeguarding'],0,0,0,0,0
+2023-03-15,1.63603E+18,['guardrails'],0,0,0,0,0
+2023-03-16,1.63644E+18,['automate'],0,0,0,0,0
+2023-03-10,1.63424E+18,"['security', 'security']",1,1,1,1,1
+2023-02-13,1.62521E+18,['account'],0,0,0,0,0
+2023-01-14,1.61417E+18,['trust'],0,0,1,1,1
+2023-03-18,1.63713E+18,['labordeolivier'],0,1,1,1,1
+2023-02-11,1.62446E+18,['privacy'],1,1,1,1,1
+2023-03-15,1.63602E+18,['securing'],0,0,0,0,0
+2023-03-10,1.63404E+18,['automated'],0,0,0,0,0
+2023-03-02,1.63129E+18,['security'],0,0,0,0,0
+2023-02-13,1.62511E+18,['trust'],0,0,0,0,0
+2023-02-19,1.62728E+18,['risk'],1,0,1,1,1
+2023-03-18,1.63716E+18,['sustainability'],0,0,0,0,0
+2023-03-22,1.63833E+18,['ethics'],0,0,0,0,0
+2023-03-08,1.63342E+18,"['biased', 'bias', 'stereotypes']",1,1,1,1,1
+2023-02-27,1.63022E+18,"['explainer', 'explains']",0,0,0,0,0
+2023-02-18,1.62685E+18,['automation'],0,0,0,0,0
+2023-03-28,1.64055E+18,['risk'],1,1,1,1,1
+2023-01-10,1.61288E+18,"['governance', 'automation']",0,0,0,0,0
+2023-01-24,1.61784E+18,"['risk', 'ethic', 'ethic']",0,0,0,0,0
+2023-01-04,1.61075E+18,['ethical'],0,0,0,0,0
+2023-02-02,1.62095E+18,['response'],0,0,0,0,0
+2023-02-21,1.62802E+18,['automatic'],0,0,0,0,0
+2023-03-23,1.63892E+18,"['harm', 'harm', 'ethicalai']",1,1,1,1,1
+2023-03-25,1.63968E+18,"['ethicsinai', 'responsibleai', 'ethicsmatter']",0,0,0,0,0
+2023-01-06,1.6115E+18,['response'],0,0,0,0,0
+2023-03-16,1.63644E+18,['responses'],0,0,0,0,0
+2023-02-10,1.62401E+18,['safeguarding'],0,0,0,0,0
+2023-03-26,1.64006E+18,['trust'],0,0,0,0,0
+2023-02-21,1.62803E+18,['hallucinations'],0,0,0,0,0
+2023-01-14,1.61418E+18,['bias'],1,0,1,0,1
+2023-02-17,1.62651E+18,"['manipulate', 'manipulation']",1,1,1,1,1
+2023-02-17,1.62662E+18,['automation'],0,0,0,0,0
+2023-01-31,1.62025E+18,"['bias', 'biased']",1,0,1,1,1
+2023-03-16,1.63635E+18,['automate'],0,0,0,0,0
+2023-03-20,1.63773E+18,['accounts'],0,0,0,0,0
+2023-02-12,1.62487E+18,"['response', 'jailbreakchatgpt']",1,1,1,1,1
+2023-03-23,1.63904E+18,"['automated', 'transparency', 'labor']",1,0,1,0,0
+2023-03-18,1.63695E+18,"['jailbreak', 'security', 'jailbreak']",1,1,1,1,1
+2023-01-21,1.61691E+18,['accountants'],0,0,0,0,0
+2023-03-10,1.63411E+18,['security'],1,1,1,1,1
+2023-02-17,1.62651E+18,['misinformation'],0,0,0,0,0
+2023-02-12,1.62473E+18,['labordeolivier'],0,0,0,0,0
+2023-02-05,1.6221E+18,"['responses', 'bias']",1,0,1,1,1
+2023-01-05,1.61081E+18,['security'],0,0,0,0,0
+2023-02-23,1.62867E+18,['safety'],1,0,0,0,0
+2023-03-08,1.63342E+18,['ethics'],0,0,0,0,0
+2023-02-10,1.62393E+18,"['response', 'response']",0,0,0,0,0
+2023-03-09,1.63396E+18,['automated'],0,0,0,0,0
+2023-01-18,1.61551E+18,['account'],0,0,0,0,0
+2023-02-20,1.62763E+18,['misinformation'],1,0,0,0,0
+2023-03-12,1.63501E+18,['justice'],0,0,0,0,0
+2023-03-16,1.63634E+18,"['responses', 'hallucinations']",1,0,1,1,1
+2023-03-09,1.63384E+18,['account'],0,0,0,0,0
+2023-02-25,1.62938E+18,['automatically'],0,0,0,0,0
+2023-02-20,1.62773E+18,['automatedsarcasmgenerator'],0,0,0,0,0
+2023-03-16,1.6363E+18,['regulateai'],1,0,1,1,1
+2023-01-11,1.61322E+18,['response'],0,0,0,0,0
