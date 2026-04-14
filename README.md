@@ -1,12 +1,12 @@
-# A Reproducible and Human-Validated LLM-Assisted Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data
+# A Reproducible and Human-Validated Pipeline for LLM-Based Classification of Ethical Risk Discourse in Large-Scale Social Media Data
 
 ## Research Overview
 
-Isolating sparse, context-dependent target discourse from large-scale social media corpora remains a methodological challenge. This study presents a reproducible and human-validated LLM-assisted pipeline that combines recall-oriented candidate construction, zero-shot contextual classification, human validation, and BERTopic-based topic structure extraction. The pipeline was applied to approximately 500,000 ChatGPT-related tweets collected between January and March 2023 from Twitter (now X), representing the early phase of generative AI adoption. In a cross-model comparison, GPT-4.1 outperformed GPT-3.5-turbo across all evaluation metrics, achieving an accuracy of 0.899, an F1-score of 0.859, and a Cohen's κ of 0.780, with most of the improvement driven by a lower false-negative rate. BERTopic analysis of the pipeline-identified corpus yielded 33 sub-topics, which were grouped into five ethical risk categories through topic-to-category mapping. Within the structured non-outlier portion of the corpus, Societal and democratic risks accounted for the largest share (36.16%). The primary contribution is methodological: a human-validated modular workflow can isolate sparse, context-dependent target discourse from noisy social media data more reliably than keyword filtering alone and support interpretable downstream topic analysis.
+Isolating sparse, context-dependent target discourse from large-scale social media corpora remains a methodological challenge. This study presents a reproducible and human-validated pipeline that combines recall-oriented candidate construction, zero-shot LLM-based contextual classification, human validation, and BERTopic-based topic structure extraction. The pipeline was applied to approximately 500,000 ChatGPT-related tweets collected between January and March 2023 from Twitter (now X), representing the early phase of generative AI adoption. In a cross-model comparison, GPT-4.1 outperformed GPT-3.5-turbo across all evaluation metrics, achieving an accuracy of 0.899, an F1-score of 0.859, and a Cohen's κ of 0.780, with most of the improvement driven by a lower false-negative rate. BERTopic analysis of the pipeline-identified corpus yielded 33 sub-topics, which were grouped into five ethical risk categories through topic-to-category mapping. Within the structured non-outlier portion of the corpus, Societal and democratic risks accounted for the largest share (36.16%). The primary contribution is methodological: a human-validated modular workflow can isolate sparse, context-dependent target discourse from noisy social media data more reliably than keyword filtering alone and support interpretable downstream topic analysis.
 
 This repository contains the replication materials for:
 
-> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Reproducible and Human-Validated LLM-Assisted Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data. *PeerJ Computer Science*. (under review)
+> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Reproducible and Human-Validated Pipeline for LLM-Based Classification of Ethical Risk Discourse in Large-Scale Social Media Data. *PeerJ Computer Science*. (under review)
 
 ## Repository Structure
 
@@ -152,7 +152,7 @@ The five ethical risk dimensions used for classification and topic-to-category m
 
 ```bibtex
 @article{kim2026reproducible,
-  title={A Reproducible and Human-Validated LLM-Assisted Pipeline for Detecting Ethical Risk Discourse in Early ChatGPT-Related Twitter Data},
+  title={A Reproducible and Human-Validated Pipeline for LLM-Based Classification of Ethical Risk Discourse in Large-Scale Social Media Data},
   author={Kim, Soyon and Kim, Soo Hyung and Lee, Bong Gyou},
   journal={PeerJ Computer Science},
   year={2026},
