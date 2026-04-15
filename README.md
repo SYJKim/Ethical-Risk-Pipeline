@@ -6,7 +6,7 @@ Isolating sparse, context-dependent target discourse from large-scale social med
 
 This repository contains the replication materials for:
 
-> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Reproducible and Human-Validated Pipeline for LLM-Based Classification of Ethical Risk Discourse in Large-Scale Social Media Data. *PeerJ Computer Science*. (under review)
+> Kim, S., Kim, S. H., & Lee, B. G. (2026). A Reproducible and Human-Validated Framework for LLM-Based Classification of Ethical Risk Discourse in Social Media Data. *PeerJ Computer Science*. (under review)
 
 ## Repository Structure
 
