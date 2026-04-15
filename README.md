@@ -1,4 +1,4 @@
-# A Reproducible and Human-Validated Pipeline for LLM-Based Classification of Ethical Risk Discourse in Large-Scale Social Media Data
+# A Reproducible and Human-Validated Framework for LLM-Based Classification of Ethical Risk Discourse in Social Media Data
 
 ## Research Overview
 
