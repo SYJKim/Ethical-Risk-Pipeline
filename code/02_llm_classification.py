@@ -1,51 +1,32 @@
-"""
-02_llm_classification.py
-Stage 1-B: LLM-based contextual classification using GPT-4.1 and GPT-3.5-turbo.
-
-Input:  data/candidate_corpus.csv
-Output: data/gpt4_1_full_labels.csv
-        data/gpt3_5_full_labels.csv
-
-Requires: OPENAI_API_KEY environment variable.
-"""
-
 import os
 import time
 import random
+import argparse
 import pandas as pd
 from pathlib import Path
-from openai import OpenAI, RateLimitError, APIError, APITimeoutError
 
-# ── Configuration ──────────────────────────────────────────
-INPUT_PATH = Path("../data/candidate_corpus.csv")
-OUTPUT_DIR = Path("../data")
+# Paths and config
 PROMPT_PATH = Path("../prompts/primary_prompt.txt")
-
-MODELS = {
-    "gpt-4.1":       "gpt4_1_full_labels.csv",
-    "gpt-3.5-turbo": "gpt3_5_full_labels.csv",
-}
+CANDIDATE_CORPUS = Path("../data/candidate_corpus.csv")
+HUMAN_ANNOTATION = Path("../data/human_annotation_385.csv")
+DATA_DIR = Path("../data")
 
 TEMPERATURE = 0.0
 SAVE_EVERY = 1000
-MAX_RETRIES = 10
+SAVE_EVERY_SMALL = 25
+SUCCESS_SLEEP = 1.2
 BASE_WAIT = 5
 MAX_WAIT = 300
-SUCCESS_SLEEP = 1.2
-
-# ── Setup ──────────────────────────────────────────────────
-api_key = os.environ.get("OPENAI_API_KEY")
-if not api_key:
-    raise EnvironmentError("Set OPENAI_API_KEY environment variable.")
-
-client = OpenAI(api_key=api_key)
+MAX_RETRIES = 10
 
 with open(PROMPT_PATH) as f:
     PROMPT_TEMPLATE = f.read()
 
 
-def classify(tweet: str, model: str) -> str:
-    """Classify a single tweet using the specified model."""
+# Per-provider classifiers
+def _openai_classify(tweet, model):
+    from openai import OpenAI
+    client = _openai_classify.client
     prompt = PROMPT_TEMPLATE.replace("{tweet}", tweet)
     response = client.responses.create(
         model=model,
@@ -55,19 +36,73 @@ def classify(tweet: str, model: str) -> str:
     return response.output_text.strip()
 
 
-def run_classification(df: pd.DataFrame, model_name: str, output_path: Path):
-    """Classify all tweets and save results with resume support."""
-    label_col = "gpt_label"
+def _anthropic_classify(tweet, model):
+    client = _anthropic_classify.client
+    prompt = PROMPT_TEMPLATE.replace("{tweet}", tweet)
+    response = client.messages.create(
+        model=model,
+        max_tokens=5,
+        temperature=TEMPERATURE,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return response.content[0].text.strip()
 
-    # Resume: load existing progress if available
+
+def _gemini_classify(tweet, model):
+    from google.genai import types
+    client = _gemini_classify.client
+    prompt = PROMPT_TEMPLATE.replace("{tweet}", tweet)
+    response = client.models.generate_content(
+        model=model,
+        contents=prompt,
+        config=types.GenerateContentConfig(temperature=TEMPERATURE),
+    )
+    return (response.text or "").strip()
+
+
+def get_classifier(provider, model_id):
+    if provider == "openai":
+        from openai import OpenAI
+        _openai_classify.client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        return lambda tweet: _openai_classify(tweet, model_id)
+
+    if provider == "anthropic":
+        from anthropic import Anthropic
+        _anthropic_classify.client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        return lambda tweet: _anthropic_classify(tweet, model_id)
+
+    if provider == "google":
+        from google import genai
+        _gemini_classify.client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
+        return lambda tweet: _gemini_classify(tweet, model_id)
+
+    raise ValueError(f"Unknown provider: {provider}")
+
+
+def get_retryable_exceptions(provider):
+    if provider == "openai":
+        from openai import RateLimitError, APIError, APITimeoutError
+        return (RateLimitError, APIError, APITimeoutError)
+    if provider == "anthropic":
+        from anthropic import RateLimitError, APIError, APITimeoutError, APIConnectionError
+        return (RateLimitError, APIError, APITimeoutError, APIConnectionError)
+    if provider == "google":
+        from google.genai import errors as genai_errors
+        return (genai_errors.APIError,)
+    return ()
+
+
+def classify_corpus(df, text_col, label_col, classify_fn, retry_excs,
+                    output_path, save_every):
     if output_path.exists():
         df = pd.read_csv(output_path)
-        print(f"  Resuming from {output_path} ({df[label_col].notna().sum():,} already labeled)")
+        n_done = df[label_col].notna().sum() if label_col in df.columns else 0
+        print(f"  Resuming from {output_path} ({n_done:,} already labeled)")
     elif label_col not in df.columns:
         df[label_col] = None
 
     total = len(df)
-    print(f"  Total tweets: {total:,}")
+    print(f"  Total rows: {total:,}")
 
     for i in range(total):
         if pd.notna(df.at[i, label_col]):
@@ -76,14 +111,14 @@ def run_classification(df: pd.DataFrame, model_name: str, output_path: Path):
         retries = 0
         while True:
             try:
-                label = classify(df.iloc[i]["content"], model_name)
+                label = classify_fn(df.iloc[i][text_col])
                 if label not in {"0", "1"}:
-                    raise ValueError(f"Non-binary output: {label}")
+                    raise ValueError(f"Non-binary output: {label!r}")
                 df.at[i, label_col] = int(label)
                 time.sleep(SUCCESS_SLEEP)
                 break
 
-            except (RateLimitError, APIError, APITimeoutError):
+            except retry_excs as e:
                 retries += 1
                 wait = min(BASE_WAIT * (2 ** retries), MAX_WAIT)
                 wait *= 0.7 + 0.6 * random.random()
@@ -99,25 +134,85 @@ def run_classification(df: pd.DataFrame, model_name: str, output_path: Path):
                 df.at[i, label_col] = None
                 break
 
-        if (i + 1) % SAVE_EVERY == 0:
+        if (i + 1) % save_every == 0:
             df.to_csv(output_path, index=False)
             labeled = df[label_col].notna().sum()
-            print(f"  Progress: {labeled:,}/{total:,} saved to {output_path}")
+            print(f"  Progress: {labeled:,}/{total:,} saved")
 
     df.to_csv(output_path, index=False)
-    counts = df[label_col].value_counts(dropna=False)
-    print(f"\n  Classification complete. Saved to {output_path}")
-    print(f"  Label distribution:\n{counts.to_string()}\n")
+    print(f"  Done. Saved to {output_path}")
+    return df
 
 
-# ── Main ───────────────────────────────────────────────────
-if __name__ == "__main__":
-    df_raw = pd.read_csv(INPUT_PATH)
+FULL_CORPUS_MODELS = [
+    ("openai",    "gpt-4.1",       "gpt_4_1_full_labels.csv",       "gpt_4_1_label"),
+    ("openai",    "gpt-3.5-turbo", "gpt_3_5_turbo_full_labels.csv", "gpt_3_5_turbo_label"),
+]
+
+VALIDATION_MODELS = [
+    ("openai",    "gpt-4.1",          "gpt_4_1_label"),
+    ("openai",    "gpt-3.5-turbo",    "gpt_3_5_turbo_label"),
+    ("anthropic", "claude-sonnet-4-6","claude_sonnet_4_6_label"),
+    ("google",    "gemini-2.5-pro",   "gemini_2_5_pro_label"),
+]
+
+
+def run_full_corpus():
+    df_raw = pd.read_csv(CANDIDATE_CORPUS)
+    if "content" not in df_raw.columns:
+        raise RuntimeError(
+            "candidate_corpus.csv must contain a 'content' column. "
+            "Rehydrate tweet text from the Kaggle source (Ansari, 2023) first — "
+            "see README section 'Data rehydration'."
+        )
     print(f"Loaded candidate corpus: {len(df_raw):,} tweets\n")
 
-    for model_name, output_file in MODELS.items():
-        print(f"{'='*60}")
-        print(f"Model: {model_name}")
-        print(f"{'='*60}")
-        output_path = OUTPUT_DIR / output_file
-        run_classification(df_raw.copy(), model_name, output_path)
+    for provider, model_id, outfile, label_col in FULL_CORPUS_MODELS:
+        print("=" * 60)
+        print(f"[Full corpus] Model: {model_id}")
+        print("=" * 60)
+        classify_fn = get_classifier(provider, model_id)
+        retry_excs = get_retryable_exceptions(provider)
+        classify_corpus(
+            df_raw.copy(), "content", label_col, classify_fn, retry_excs,
+            output_path=DATA_DIR / outfile, save_every=SAVE_EVERY,
+        )
+
+
+def run_validation_set():
+    df = pd.read_csv(HUMAN_ANNOTATION)
+    if "content" not in df.columns:
+        raise RuntimeError(
+            "human_annotation_385.csv must contain a 'content' column. "
+            "Rehydrate tweet text from the Kaggle source (Ansari, 2023) first — "
+            "see README section 'Data rehydration'."
+        )
+    print(f"Loaded human annotation set: {len(df):,} tweets\n")
+
+    for provider, model_id, label_col in VALIDATION_MODELS:
+        print("=" * 60)
+        print(f"[Validation n=385] Model: {model_id} -> column: {label_col}")
+        print("=" * 60)
+        classify_fn = get_classifier(provider, model_id)
+        retry_excs = get_retryable_exceptions(provider)
+        classify_corpus(
+            df, "content", label_col, classify_fn, retry_excs,
+            output_path=HUMAN_ANNOTATION, save_every=SAVE_EVERY_SMALL,
+        )
+        df = pd.read_csv(HUMAN_ANNOTATION)
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="LLM-based contextual classification")
+    parser.add_argument(
+        "--scope", choices=["full", "validation", "both"], default="both",
+        help="'full': 48,398-tweet candidate corpus (GPT-4.1, GPT-3.5-turbo). "
+             "'validation': 385-sample human annotation set (all four LLMs). "
+             "'both': run both stages sequentially (default).",
+    )
+    args = parser.parse_args()
+
+    if args.scope in ("full", "both"):
+        run_full_corpus()
+    if args.scope in ("validation", "both"):
+        run_validation_set()

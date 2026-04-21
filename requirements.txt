@@ -1,0 +1,36 @@
+# Python environment for reproducing the analyses in:
+#   Kim, S., Kim, S. H., & Lee, B. G. (2026).
+#   A Reproducible Framework for LLM-Based Classification and Structural
+#   Analysis of Ethical Risk Discourse in Social Media.
+#   PeerJ Computer Science (under review).
+#
+# Tested with Python 3.9 and Python 3.10.
+
+# Core data stack
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+statsmodels>=0.14
+
+# LLM provider SDKs (Stage 1-B)
+openai>=1.40
+anthropic>=0.40
+google-genai>=0.3
+
+# Supervised baselines (Stage 1-D)
+torch>=2.0
+transformers>=4.35
+datasets>=2.14
+accelerate>=0.25
+emoji>=2.8
+
+# BERTopic stack (Stage 2)
+bertopic>=0.16
+sentence-transformers>=2.2
+hdbscan>=0.8.33
+umap-learn>=0.5.4
+gensim>=4.3
+spacy>=3.6
+# spaCy English model must be downloaded separately:
+#   python -m spacy download en_core_web_sm
