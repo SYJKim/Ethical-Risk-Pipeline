@@ -1,6 +1,6 @@
 # A Reproducible Framework for LLM-Based Classification and Structural Analysis of Ethical Risk Discourse in Social Media
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19570768.svg)](https://doi.org/10.5281/zenodo.19570768)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19570767.svg)](https://doi.org/10.5281/zenodo.19570767)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Replication materials for:
@@ -197,7 +197,7 @@ The coherence calculation reuses the same tokenization pipeline (CountVectorizer
 }
 ```
 
-Archived release: https://doi.org/10.5281/zenodo.19570768
+Archived release: https://doi.org/10.5281/zenodo.19570767
 
 ## License
 
